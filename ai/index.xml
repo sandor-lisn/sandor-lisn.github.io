@@ -278,6 +278,10 @@ automated pipeline. For the others, it was more like:&lt;/p>
 &lt;p>Goto 1.&lt;/p>
 &lt;/li>
 &lt;/ol>
+&lt;p>But, oh boy! When it worked, it worked astonishingly well:&lt;/p>
+&lt;video width="720" autoplay loop>
+&lt;source src="elon.mp4" type="video/mp4" />
+&lt;/video>
 &lt;p>A few clips were completely impossible to generate, as there is a
 strange dependency between:&lt;/p>
 &lt;ul>
@@ -297,7 +301,7 @@ prompt can get you from &amp;ldquo;completely unusable&amp;rdquo; to &amp;ldquo;
 David used his great video editing skills to put everything together.
 Enjoy!&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/znwS1MzRrUA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe src="https://www.youtube.com/embed/FpGGfpizIi4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;p>&lt;strong>Conclusions&lt;/strong> Hunyuan video demonstrated great potential in this
 project. I also had to dive into LLMs (something that I religiously
