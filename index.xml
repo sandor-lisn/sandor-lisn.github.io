@@ -26,7 +26,326 @@
 &lt;div>
 Quickly discover relevant content by &lt;a href="./publication/">filtering publications&lt;/a>.
 &lt;/div>
-&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>Video Generation with Open Source Models</title><link>https://drsandor.net/ai/attenborough/</link><pubDate>Wed, 02 Oct 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/attenborough/</guid><description>&lt;p>Social media has recently been flooded with impressive AI videos made with closed source tools like Sora, Runway, or Kling. In this experiment, I wanted to investigate how far you can get by using only open source AI models.&lt;/p>
+&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/ai/good-bad-ugly/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/good-bad-ugly/</guid><description>&lt;p>I concluded my last AI blog post in October with &amp;ldquo;open source video
+generation models&amp;hellip; will overtake closed sourced ones sooner than
+expected!&amp;rdquo;. &lt;em>Surprise: it has already happened!&lt;/em>&lt;/p>
+&lt;p>In this lengthy blogpost, I want to:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Explain the &lt;em>enormous work&lt;/em> that we did over the &lt;em>last 10 days&lt;/em>, resulting in a funny AI
+movie (jump to the end if you are only here for that)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Explain the &lt;em>big picture&lt;/em> of generative AI for videos&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;details class="toc-inpage d-print-none " open>
+&lt;summary class="font-weight-bold">Table of Contents&lt;/summary>
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#1-the-ideal-video-model">1. The Ideal Video Model&lt;/a>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#2-current-video-models">2. Current Video Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#3-case-study-ai-remake-of-the-good-the-bad-and-the-ugly">3. Case Study: AI Remake of &amp;ldquo;The Good, The Bad, and The Ugly&amp;rdquo;&lt;/a>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;/details>
+&lt;p>Since my last blog post, a ton of generative AI video models have been
+released and I have tested the most important ones. To be upfront with
+my conclusion: &lt;a href="https://github.com/Tencent/HunyuanVideo" target="_blank" rel="noopener">Tencent&amp;rsquo;s Hunyuan Video&lt;/a>
+is &lt;em>absolutely astonishing&lt;/em> and
+will have wide impact. The last time I had this feeling was when Stable
+Diffusion came out in 2022, which was the foundation for successful
+commercial products such as Midjourney and is still being used widely
+(e.g. the new Mountain Dew commercials are made with it). I am convinced:
+&lt;em>Hunyuan will be for video generation what Stable Diffusion has been
+for image generation.&lt;/em>&lt;/p>
+&lt;h2 id="1-the-ideal-video-model">1. The Ideal Video Model&lt;/h2>
+&lt;p>Obviously, we want video models to be expressive and generate videos of
+high resolution and framerate. Some not-so-obvious requirements include:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;em>Open source:&lt;/em> model can be downloaded and run locally&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Uncensored:&lt;/em> censored models lead to many problems&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Allow the development of an &lt;em>ecosystem of tools&lt;/em> around it&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Following the analogy to Stable Diffusion I drew earlier: all of these
+were true for it and were key to why it won.&lt;/p>
+&lt;h4 id="model-censorship">Model Censorship&lt;/h4>
+&lt;p>In general, this is a difficult question. On the one hand, I concur that
+some extreme content should simply not exist at all, so models should
+not be able to generate it. On the other hand, over-censoring of models
+has some unintended side effects.&lt;/p>
+&lt;p>Earlier this year, Google&amp;rsquo;s image generation model Gemini was &lt;a href="https://www.nytimes.com/2024/02/22/technology/google-gemini-german-uniforms.html" target="_blank" rel="noopener">widely ridiculed&lt;/a> when a
+prompt for &amp;ldquo;Nazi soldiers&amp;rdquo; would generate Black and Asian soldiers. When
+OpenAI released DALLE in 2022, I tested it with the prompt &amp;ldquo;My Bavarian
+mother unintentionally takes a selfie with her mobile phone&amp;rdquo;, also
+returning me a selection of ethnicities in the results, which are unlikely
+to match what I actually want. What a bad user experience!&lt;/p>
+&lt;p>This year, Stability AI released Stable Diffusion 3, which the community
+had been waiting for in great anticipation. It quickly turned out that this
+model is quite useless. The training data only contained a very small
+amount of lightly-dressed humans, leading to a total incomprehension of
+human anatomy. The prompt &amp;ldquo;woman lying on grass&amp;rdquo; quickly became a meme.&lt;/p>
+&lt;figure id="figure-woman-lying-in-grass-according-to-stable-diffusion-3httpsstabilityainewsstable-diffusion-3">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="&amp;#39;&amp;#39;Woman lying in grass&amp;#39;, according to [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)" srcset="
+/ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_4736902eab9f0ecd57bf02bf8b4ee839.webp 400w,
+/ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_5acf54ae7b89121f468fb098ea842425.webp 760w,
+/ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_4736902eab9f0ecd57bf02bf8b4ee839.webp"
+width="760"
+height="430"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
+&amp;lsquo;&amp;lsquo;Woman lying in grass&amp;rsquo;, according to &lt;a href="https://stability.ai/news/stable-diffusion-3" target="_blank" rel="noopener">Stable Diffusion 3&lt;/a>
+&lt;/figcaption>&lt;/figure>
+&lt;h4 id="ecosystem">Ecosystem&lt;/h4>
+&lt;p>In my last blog post, I showed how I built a pipeline out of several
+open source models. This ability is essential for many use cases,
+including professional media production and research. It also
+supports the creation of an ecosystem of supporting tools (more on this below).&lt;/p>
+&lt;p>The models developed by big Silicon Valley companies like Meta, Google,
+and OpenAI don&amp;rsquo;t support such use cases and probably don&amp;rsquo;t even want to;
+they are happy if users can modify a video they took in a café to show a
+Kombucha instead of a Coke or an Avocado Toast instead of a Hamburger.&lt;/p>
+&lt;p>An ecosystem of tools around foundation models is critical, because if
+allows, among other things, the very precise &lt;em>specification of outputs&lt;/em>.
+Simply speaking, one of the most useless ways to specify the image or
+video that I want to be generated is by text. Much more useful are:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;em>Controlnets:&lt;/em> can specify output by visual constraints (colors, body
+poses, depth information, edge information etc.)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>IPAdapters:&lt;/em> can be used to transfer non-tangible information, such
+as the style of an image&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>LORAs:&lt;/em> a more heavyweight approach than IPAdapters that allows much
+more control of styles, materials, and humans in the output&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;figure id="figure-left-behind-the-scenes-of-a-video-i-posted-on-linkedin-in-022024httpswwwlinkedincompostsdr-christian-sandor-b7240890_i-did-some-dance-training-over-the-holidays-activity-7156976991240355840-28_outm_sourceshareutm_mediummember_desktop-using-a-lora-i-had-trained-on-my-appearance-and-a-controlnet-for-body-pose-right-my-coworker-huyenhttpsar-aiorgauthorhuyen-nguyen-generated--using-an-ipadapter-conditioned-with-4-photos-of-her">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Left: behind the scenes of a video I [posted on Linkedin in 02/2024](https://www.linkedin.com/posts/dr-christian-sandor-b7240890_i-did-some-dance-training-over-the-holidays-activity-7156976991240355840-28_O?utm_source=share&amp;amp;utm_medium=member_desktop), using a LORA I had trained on my appearance and a controlnet for body pose. Right: my coworker [Huyen](https://ar-ai.org/author/huyen-nguyen/), generated using an IPAdapter conditioned with 4 photos of her." srcset="
+/ai/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_c5752d928a33c7648640a778276f4fef.webp 400w,
+/ai/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_0ee009d1ae63cc7e8937dc82134f59fa.webp 760w,
+/ai/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/ai/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_c5752d928a33c7648640a778276f4fef.webp"
+width="760"
+height="450"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
+Left: behind the scenes of a video I &lt;a href="https://www.linkedin.com/posts/dr-christian-sandor-b7240890_i-did-some-dance-training-over-the-holidays-activity-7156976991240355840-28_O?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener">posted on Linkedin in 02/2024&lt;/a>, using a LORA I had trained on my appearance and a controlnet for body pose. Right: my coworker &lt;a href="https://ar-ai.org/author/huyen-nguyen/" target="_blank" rel="noopener">Huyen&lt;/a>, generated using an IPAdapter conditioned with 4 photos of her.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="2-current-video-models">2. Current Video Models&lt;/h2>
+&lt;p>Since my last AI blog post, I consider the most important models that
+have been released: LTX-Video (1 month ago), Hunyuan (3 weeks ago), and
+many additions to CogVideoX. Their main strengths are:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;em>LTX:&lt;/em> Lightning fast&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>CogVideoX:&lt;/em> Extreme controllability&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Hunyuan:&lt;/em> Best visual quality&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>First, let me show an interactive session of me with &lt;em>LTX video&lt;/em>, captured
+in real-time from my screen. The speed is absolutely mind-blowing!&lt;/p>
+&lt;video width="720" autoplay loop>
+&lt;source src="ltx.mp4" type="video/mp4" />
+&lt;/video>
+&lt;p>The &lt;em>CogVideoX&lt;/em> family stands out by how many things can be controlled
+about the videos that are generated, including:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Using images to specify the start &amp;amp; end of the video&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Define trajectories of objects in the video&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Exact specification of camera movements&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Using LORAs, we can already specify styles like &amp;ldquo;Disney Movie&amp;rdquo;, with
+more coming out on a daily basis&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Using a variety of controlnets&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Video generation with CogVideoX using controlnet (courtesy of &lt;a href="https://github.com/kijai" target="_blank" rel="noopener">Kijai&lt;/a>):&lt;/p>
+&lt;video width="720" autoplay loop>
+&lt;source src="kijai.mp4" type="video/mp4" />
+&lt;/video>
+&lt;p>Finally: &lt;em>Hunyuan&lt;/em>. I very quickly got very convinced by it.
+Here is the sixth test video that I ever created with it.
+The quality is just unbelievable for a quick test video.
+As input, I used Huyen&amp;rsquo;s image from Figure 2 piped through an LLM for captioning and motion instructions.&lt;/p>
+&lt;video width="720" autoplay loop>
+&lt;source src="huyen.mp4" type="video/mp4" />
+&lt;/video>
+&lt;h2 id="3-case-study-ai-remake-of-the-good-the-bad-and-the-ugly">3. Case Study: AI Remake of &amp;ldquo;The Good, The Bad, and The Ugly&amp;rdquo;&lt;/h2>
+&lt;p>The goal of this experiment was to understand Hunyuan capabilities more
+deeply. It took 10 intense days from start to finish. It&amp;rsquo;s important to
+note that if I had simply wanted to generate the best possible AI video
+when I started, I would have used CogVideoX, because of its strong
+controllability. And indeed, controllability was the main challenge in
+this experiment, as Hunyuan only accepted 2 types of inputs when we
+started:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Text prompts&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Videos for specifying motion vectors&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Together with my most artistic PhD student (&lt;a href="https://ar-ai.org/author/david-maruscsak/" target="_blank" rel="noopener">Dávid Maruscsák&lt;/a>), we set out
+to make a short AI movie with Hunyuan. Our plan of attack was:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Model exploration: understand censorship &amp;amp; prompting capabilities&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Creative exploration: which kind of movie can we make given the
+technical constraints?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Production&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="model-exploration">Model Exploration&lt;/h4>
+&lt;p>A very weird characteristic of Hunyuan is that to get the best outputs,
+you can&amp;rsquo;t really use natural language prompts (same issue as for e.g.
+Flux or LTX-Video). Instead, you must use an LLM that transforms what
+you want into a prompt that suits the model. Tencent very kindly also
+released the LLM that they are using for that, but it&amp;rsquo;s VRAM requirement
+is 700GB&amp;hellip; To put this in perspective, you would need 44 of the best
+consumer graphics cards available right now. It seemed too heavy.
+Instead, we used a quantized version of Llama 3.3 that only needs 35GB
+VRAM, so it could fit into our H100 card.&lt;/p>
+&lt;p>Without LORAs, the standard trick to achieve consistency between shots
+is to use celebrities as actors in your AI movie. So, we started by
+testing 120 celebrities .&lt;/p>
+&lt;p>The pipeline was fully automatic using Llama and Hunyuan. First, I Llama
+generated a list of the top-20 celebrities for certain domains (sports,
+music, politics, fictional characters, etc.); then, it created a prompt
+in the expected format for Hunyuan. We generated four 5-second videos
+per celebrity, resulting in 480 clips that Dávid Maruscsák watched and
+rated. The whole process took 8 hours on a single H100 GPU.&lt;/p>
+&lt;p>Armed with the results, we proceeded to explore different storylines for
+our movie.&lt;/p>
+&lt;h4 id="creative-exploration">Creative Exploration&lt;/h4>
+&lt;p>Our first idea was to remake the arthouse movie &lt;a href="https://en.wikipedia.org/wiki/Coffee_and_Cigarettes" target="_blank" rel="noopener">Coffee and
+Cigarettes&lt;/a>. Initial results were very encouraging:&lt;/p>
+&lt;figure id="figure-input-screencap-of-coffee-and-cigarettes-below-sample-outputs-of-automated-pipeline">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Input screencap of Coffee and Cigarettes. Below: sample outputs of automated pipeline." srcset="
+/ai/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1d5f95cc72399937db7f510830518c1d.webp 400w,
+/ai/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_8e69f39dfdc54929eb96796b2e10d5e7.webp 760w,
+/ai/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/ai/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1d5f95cc72399937db7f510830518c1d.webp"
+width="760"
+height="402"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
+Input screencap of Coffee and Cigarettes. Below: sample outputs of automated pipeline.
+&lt;/figcaption>&lt;/figure>
+&lt;video width="720" autoplay loop>
+&lt;source src="cc1.mp4" type="video/mp4" />
+&lt;/video>
+&lt;video width="720" autoplay loop>
+&lt;source src="cc2.mp4" type="video/mp4" />
+&lt;/video>
+&lt;p>However, we quickly realized that with the currently incomplete
+ecosystem around Hunyuan, we can only depict 1 celebrity per shot
+reliably. In general, the success rate when having 2 goes down dramatically (90% =&amp;gt;
+1%).&lt;/p>
+&lt;p>So, we had to find a movie genre that mainly shows single actors in
+shots, which led us to &amp;ldquo;The Good, The Bad, and The Ugly&amp;rdquo;.&lt;/p>
+&lt;p>Based on our test, the celebrity that works by far the best among all is
+Donald Trump. So, he had to be one of them. I remembered that Donald
+Trump had some beef with Taylor Swift (&amp;ldquo;cat lady&amp;rdquo;), so we considered it
+to be a good fit to make Taylor &amp;ldquo;The Good&amp;rdquo;, as she kills &amp;ldquo;The Bad&amp;rdquo; at
+the end of the movie. We were only left with determining &amp;ldquo;The Ugly&amp;rdquo;.
+While Vladimir Putin works very well in Hunyuan and could be a good fit,
+we were not too keen to get to experience Novichok agent. So, we settled
+for Elon Musk (If you read this Elon: Please don&amp;rsquo;t disable the breaks
+while I am driving my car. It is only a joke! Thank you!).&lt;/p>
+&lt;h4 id="production">Production&lt;/h4>
+&lt;p>To be honest, it was a painful process. We had about 20 short shots that
+we had to generate. Only very few of them worked through a completely
+automated pipeline. For the others, it was more like:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Generate 16 clips with automated pipeline (~5 minutes)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Look at clips, pick best one, refine prompt&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Goto 1.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>A few clips were completely impossible to generate, as there is a
+strange dependency between:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Celebrity in the shot&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Activity that the celebrity is doing&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Overall scene&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>I still don&amp;rsquo;t fully understand this point. Changing a single word in the
+prompt can get you from &amp;ldquo;completely unusable&amp;rdquo; to &amp;ldquo;perfect&amp;rdquo;.&lt;/p>
+&lt;p>It took me about 10 hours of work to generate the 20 shots. Finally,
+David used his great video editing skills to put everything together.
+Enjoy!&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/znwS1MzRrUA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>Conclusions&lt;/strong> Hunyuan video demonstrated great potential in this
+project. I also had to dive into LLMs (something that I religiously
+avoided before that), which was a very interesting experience! I can&amp;rsquo;t
+wait for Tencent to release further capabilities for their model (most
+importantly: image2video), as well as the open source community creating
+more and especially better LORAs (I found the ones that are currently
+available to not work very well).&lt;/p>
+&lt;p>&lt;strong>Acknowledgements&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://ar-ai.org/author/david-maruscsak/" target="_blank" rel="noopener">Dávid Maruscsák&lt;/a>: Creative input, video editing&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Banadoco discord: Technical support and joint explorations of the model&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/kijai" target="_blank" rel="noopener">Kijai&lt;/a>: advanced technical support&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/project/ai2/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai2/</guid><description/></item><item><title>Video Generation with Open Source Models</title><link>https://drsandor.net/ai/attenborough/</link><pubDate>Wed, 02 Oct 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/attenborough/</guid><description>&lt;p>Social media has recently been flooded with impressive AI videos made with closed source tools like Sora, Runway, or Kling. In this experiment, I wanted to investigate how far you can get by using only open source AI models.&lt;/p>
 &lt;p>What is the relevance of open source AI models? First, as Yann LeCun and others argue, there are implications on the highest level; AI is becoming an absolute key technology of our times; it can&amp;rsquo;t be good for humanity if this power is in the hand of small group of people leading companies in Silicon Valley and Beijing. Second, there is a technical dimension to it. As we saw with Linux vs. Windows: Open Source leads to technical superiority in the long run. Applied to AI, we could observe that it did not take long for open text-to-image models to overtake closed ones (e.g. Stable Diffusion vs. Midjourney).&lt;/p>
 &lt;p>In the following, I describe details of my experiment, which took 10 hours from concept to final cut. You can also skip directly to the end to see the final result.&lt;/p>
 &lt;h2 id="automatic-pipeline">Automatic Pipeline&lt;/h2>
