@@ -71,9 +71,9 @@ had been waiting for in great anticipation. It quickly turned out that this
 model is quite useless. The training data only contained a very small
 amount of lightly-dressed humans, leading to a total incomprehension of
 human anatomy. The prompt &amp;ldquo;woman lying on grass&amp;rdquo; quickly became a meme.&lt;/p>
-&lt;figure id="figure-woman-lying-in-grass-according-to-stable-diffusion-3httpsstabilityainewsstable-diffusion-3">
+&lt;figure id="figure-woman-lying-on-grass-according-to-stable-diffusion-3httpsstabilityainewsstable-diffusion-3">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="&amp;#39;&amp;#39;Woman lying in grass&amp;#39;, according to [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)" srcset="
+&lt;div class="w-100" >&lt;img alt="&amp;#39;&amp;#39;Woman lying on grass&amp;#39;, according to [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)" srcset="
 /ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_4736902eab9f0ecd57bf02bf8b4ee839.webp 400w,
 /ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_5acf54ae7b89121f468fb098ea842425.webp 760w,
 /ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
@@ -82,7 +82,7 @@ width="760"
 height="430"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
-&amp;lsquo;&amp;lsquo;Woman lying in grass&amp;rsquo;, according to &lt;a href="https://stability.ai/news/stable-diffusion-3" target="_blank" rel="noopener">Stable Diffusion 3&lt;/a>
+&amp;lsquo;&amp;lsquo;Woman lying on grass&amp;rsquo;, according to &lt;a href="https://stability.ai/news/stable-diffusion-3" target="_blank" rel="noopener">Stable Diffusion 3&lt;/a>
 &lt;/figcaption>&lt;/figure>
 &lt;h4 id="ecosystem">Ecosystem&lt;/h4>
 &lt;p>In my last blog post, I showed how I built a pipeline out of several
@@ -93,7 +93,7 @@ supports the creation of an ecosystem of supporting tools (more on this below).&
 and OpenAI don&amp;rsquo;t support such use cases and probably don&amp;rsquo;t even want to;
 they are happy if users can modify a video they took in a café to show a
 Kombucha instead of a Coke or an Avocado Toast instead of a Hamburger.&lt;/p>
-&lt;p>An ecosystem of tools around foundation models is critical, because if
+&lt;p>An ecosystem of tools around foundation models is critical, because it
 allows, among other things, the very precise &lt;em>specification of outputs&lt;/em>.
 Simply speaking, one of the most useless ways to specify the image or
 video that I want to be generated is by text. Much more useful are:&lt;/p>
@@ -218,7 +218,7 @@ VRAM, so it could fit into our H100 card.&lt;/p>
 &lt;p>Without LORAs, the standard trick to achieve consistency between shots
 is to use celebrities as actors in your AI movie. So, we started by
 testing 120 celebrities .&lt;/p>
-&lt;p>The pipeline was fully automatic using Llama and Hunyuan. First, I Llama
+&lt;p>The pipeline was fully automatic using Llama and Hunyuan. First, Llama
 generated a list of the top-20 celebrities for certain domains (sports,
 music, politics, fictional characters, etc.); then, it created a prompt
 in the expected format for Hunyuan. We generated four 5-second videos
