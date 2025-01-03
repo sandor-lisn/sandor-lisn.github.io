@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>new | Christian Sandor</title><link>https://drsandor.net/tag/new/</link><atom:link href="https://drsandor.net/tag/new/index.xml" rel="self" type="application/rss+xml"/><description>new</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Dec 2024 14:00:00 +0000</lastBuildDate><image><url>https://drsandor.net/media/icon_hu287fcf417612116bcf0d00ac1ba165d7_82622_512x512_fill_lanczos_center_3.png</url><title>new</title><link>https://drsandor.net/tag/new/</link></image><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/project/ai2/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai2/</guid><description/></item><item><title>AI Experiments</title><link>https://drsandor.net/project/ai/</link><pubDate>Sun, 29 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai/</guid><description/></item><item><title>Demo at ACM SIGGRAPH Real-Time Live!</title><link>https://drsandor.net/project/rtl/</link><pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/rtl/</guid><description>&lt;p>A long-term dream of mine came true! At the end of July 2024, we showed a demonstration at ACM SIGGRAPH 2024 in Denver for their Real-Time Live! category.&lt;/p>
+&lt;p>First of all, &lt;strong>what is ACM SIGRAPH Real-Time Live?&lt;/strong> It is a specific category at the premiere computer graphics conference &lt;a href="https://en.wikipedia.org/wiki/SIGGRAPH" target="_blank" rel="noopener">ACM SIGGRAPH&lt;/a>. While SIGGRAPH has been running every year since 1974, the Real-Time Live! category (RTL for short) has only been around for 15 years. It is very engaging, as presenters have 6 minutes to show a demonstration of real-time graphics to a large audience of computer graphics professionals (~5000 people). For me, this has always been the most fascinating event of SIGGRAPH, as it shows you the maximum of what’s possible in real-time graphics today. Also, compared to research papers, you can actually see the inventors demonstrating what they made&amp;mdash; this makes much clearer what really works and what doesn’t.&lt;/p>
+&lt;p>Here are some of my favorites from recent years:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://youtu.be/MAXJWEoKbxY?si=s9nHKBy8K2WWPvuN&amp;amp;t=822" target="_blank" rel="noopener">AI &amp;amp; Physics-Assisted Character Pose Authoring&lt;/a> (2022)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=lXZhgkNFGfM" target="_blank" rel="noopener">Bebylon&lt;/a> (2018)&lt;/li>
+&lt;li>IQ livecoding with Shadertoy (I can’t find the video on YouTube; guess it was before they started uploading RTL to YouTube)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>How did our demo come about?&lt;/strong> In December 2023, I contacted Matt Swoboda about submitting something to RTL. We were playing with this idea over the last decade, but it never materialized, until this year! Matt quickly brought in a great artist, while I could secure some sponsorship and support from Canon Japan, which led to this amazing constellation:&lt;/p>
+&lt;ul>
+&lt;li>Best real-time rendering engine for live events: &lt;a href="https://www.notch.one" target="_blank" rel="noopener">Notch&lt;/a> (Matt is their Co-Founder &amp;amp; CTO)&lt;/li>
+&lt;li>Fantastic audio-visual artist: &lt;a href="https://www.brettbolton.net" target="_blank" rel="noopener">Brett Bolton&lt;/a> (Designer of U2’s show in the Las Vegas sphere, VJ for the Grateful Dead, etc.)&lt;/li>
+&lt;li>The most stressable AR demo crew: &lt;a href="https://ar-ai.org/author/david-maruscak/" target="_blank" rel="noopener">David Maruscsak&lt;/a> and me 😊&lt;/li>
+&lt;li>Best AR headset: &lt;a href="https://global.canon/en/technology/mr2019.html" target="_blank" rel="noopener">Canon’s X1&lt;/a> (Sorry Apple, but you need to work much harder! Even though X1 was released 4 years before your Vision Pro, it has a much better image quality, better co-axial alignment of screens and cameras, better tracking infrastructure, easier integration with custom software, much better weight, etc; let me not even get started about Meta’s headsets…)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>What is the concept of our demo?&lt;/strong> You can watch a concise summary of our
+concept in the submission video below that we sent to SIGGRAPH. The main feedback that we received from the organizers was that we should expand our demo to have 2 viewers instead of 1 in order to highlight the potential to have visuals interact with multiple viewers in 3D. Challenge accepted!&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/uCb42SsFLk8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br>
+&lt;p>&lt;strong>What could the audience see?&lt;/strong> Unfortunately, there were several issues with the YouTube stream of the event, so it was much harder for the remote audience to understand what was going on. Let me start by explaining what the audience in the room could see.&lt;/p>
+&lt;p>
+&lt;figure id="figure-view-from-stage">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="View from stage" srcset="
+/media/rtl/pano_hu13dbddae45a07af144be999962d7c505_9581461_85ae5dff0cc01d3e7b407b77f81e8534.webp 400w,
+/media/rtl/pano_hu13dbddae45a07af144be999962d7c505_9581461_b503633b0ef4324c0f8a2dd0045d9306.webp 760w,
+/media/rtl/pano_hu13dbddae45a07af144be999962d7c505_9581461_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/media/rtl/pano_hu13dbddae45a07af144be999962d7c505_9581461_85ae5dff0cc01d3e7b407b77f81e8534.webp"
+width="760"
+height="194"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+View from stage
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-audience-view-of-stage">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Audience view of stage" srcset="
+/media/rtl/stage_huc5c81e4ab00a316abb82eed7380d6a68_577662_c859b43e2dea225e971b0373b49b770b.webp 400w,
+/media/rtl/stage_huc5c81e4ab00a316abb82eed7380d6a68_577662_5ff530d950c2bd588653e2976b777df1.webp 760w,
+/media/rtl/stage_huc5c81e4ab00a316abb82eed7380d6a68_577662_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/media/rtl/stage_huc5c81e4ab00a316abb82eed7380d6a68_577662_c859b43e2dea225e971b0373b49b770b.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Audience view of stage
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-setup-details-on-the-right-stage-with-brett-playing-behind-him-traditional-audio-reactive-visuals-2-viewers-with-ar-headsets-in-front-of-the-stage-left-side-split-screen-showing-the-augmented-views-of-the-2-viewers">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Setup details. On the right: stage with Brett playing; behind him traditional audio-reactive visuals; 2 viewers with AR headsets in front of the stage. Left side: split screen, showing the augmented views of the 2 viewers." srcset="
+/media/rtl/schema_hub0ff15292ea34398e4f86ba5f2aaa5bd_488378_f46bfc25bcc2119347d582a4176d1611.webp 400w,
+/media/rtl/schema_hub0ff15292ea34398e4f86ba5f2aaa5bd_488378_91496829229e096b8f287e95293cca16.webp 760w,
+/media/rtl/schema_hub0ff15292ea34398e4f86ba5f2aaa5bd_488378_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/media/rtl/schema_hub0ff15292ea34398e4f86ba5f2aaa5bd_488378_f46bfc25bcc2119347d582a4176d1611.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Setup details. On the right: stage with Brett playing; behind him traditional audio-reactive visuals; 2 viewers with AR headsets in front of the stage. Left side: split screen, showing the augmented views of the 2 viewers.
+&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;p>The setup shown in the above figure was not clear for viewers of the YouTube stream. It did not help that for the first half of our performance, the stream was only showing the view of 1 viewer.&lt;/p>
+&lt;p>&lt;strong>The main challenge&lt;/strong> with our setup was controlling the lighting. Since the
+sensors are quite sensitive to external lighting (as well as the AR content) we did our best to control this (including working with the Siggraph AV team), but even with our best efforts we had some glitches during the final performance. That said, we still got very nice compliments from the other participants and the audience.&lt;/p>
+&lt;figure id="figure-final-rehearsal-note-the-colorful-background-behind-brett-compared-to-the-black-background-at-the-actual-performance">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Final rehearsal: note the colorful background behind Brett, compared to the black background at the actual performance" srcset="
+/media/rtl/venue-rehearsal_hu0b7ba7870b9691ab7eeba5cdc97383b9_5224857_6a74a44848668db074c17e6d92c3be52.webp 400w,
+/media/rtl/venue-rehearsal_hu0b7ba7870b9691ab7eeba5cdc97383b9_5224857_bac4666bfaa2864a45bfe5b5731116c3.webp 760w,
+/media/rtl/venue-rehearsal_hu0b7ba7870b9691ab7eeba5cdc97383b9_5224857_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/media/rtl/venue-rehearsal_hu0b7ba7870b9691ab7eeba5cdc97383b9_5224857_6a74a44848668db074c17e6d92c3be52.webp"
+width="760"
+height="384"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Final rehearsal: note the colorful background behind Brett, compared to the black background at the actual performance
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-final-rehearsal-the-colorful-bright-background-is-very-nice-because-it-illuminates-brett-2-views-on-left-and-shows-off-refractions-of-virtual-water-2-views-on-right--in-the-actual-performance-we-had-to-switch-back-to-black-because-of-tracking-instabilities">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Final rehearsal: the colorful bright background is very nice, because: it illuminates Brett (2 views on left) and shows off refractions of virtual water (2 views on right) . In the actual performance, we had to switch back to black because of tracking instabilities" srcset="
+/media/rtl/rehearsal-details_hu6732b02741823ee3381c983d5d4ece3c_175293_f64b37e0f270f1ddb60658f560e03309.webp 400w,
+/media/rtl/rehearsal-details_hu6732b02741823ee3381c983d5d4ece3c_175293_2807ec2913c180a051d71c5c32f712bb.webp 760w,
+/media/rtl/rehearsal-details_hu6732b02741823ee3381c983d5d4ece3c_175293_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/media/rtl/rehearsal-details_hu6732b02741823ee3381c983d5d4ece3c_175293_f64b37e0f270f1ddb60658f560e03309.webp"
+width="760"
+height="283"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Final rehearsal: the colorful bright background is very nice, because: it illuminates Brett (2 views on left) and shows off refractions of virtual water (2 views on right) . In the actual performance, we had to switch back to black because of tracking instabilities
+&lt;/figcaption>&lt;/figure>
+&lt;p>&lt;strong>Showtime!&lt;/strong> After months of hard work, we were finally ready to demo! The hall filling with the audience was an awe-inspiring moment for me (I estimate about 3500 attendants).&lt;/p>
+&lt;video width="720" autoplay loop>
+&lt;source src="showtimelapse.mp4" type="video/mp4" />
+&lt;/video>
+&lt;figure id="figure-selfie-just-before-the-start-of-the-show">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Selfie just before the start of the show" srcset="
+/media/rtl/showtime_hu8400259ed9cc12074f04526ca19f5c86_2971141_285ff3afdc452cdaf1cdcfacb7ab255c.webp 400w,
+/media/rtl/showtime_hu8400259ed9cc12074f04526ca19f5c86_2971141_4f4d81e45566148609b848161d9de68e.webp 760w,
+/media/rtl/showtime_hu8400259ed9cc12074f04526ca19f5c86_2971141_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/media/rtl/showtime_hu8400259ed9cc12074f04526ca19f5c86_2971141_285ff3afdc452cdaf1cdcfacb7ab255c.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Selfie just before the start of the show
+&lt;/figcaption>&lt;/figure>
+&lt;p>Luckily we were the first team to present, so we could relax afterwards and enjoy the show, which contained some truly remarkable demos, including:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/live/Gm1B5DT8kE0?si=bXvehrC7aaXZARj_&amp;amp;t=429" target="_blank" rel="noopener">The controller for Jim Henson&amp;rsquo;s muppets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/live/Gm1B5DT8kE0?si=oKXaQpHSPQ6l-OB5&amp;amp;t=5459" target="_blank" rel="noopener">Movin Tracin&amp;rsquo;&lt;/a>: my personal favorite. I was surprised that this demo did not get any award.&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/live/Gm1B5DT8kE0?si=Xm3XuXkt52NV09Mr&amp;amp;t=2231" target="_blank" rel="noopener">Mesh Mortal Combat&lt;/a>: winner of both awards (audience &amp;amp; jury).&lt;/li>
+&lt;/ul>
+&lt;p>You can also just watch &lt;a href="https://www.youtube.com/live/Gm1B5DT8kE0?si=Xm3XuXkt52NV09Mr" target="_blank" rel="noopener">the whole stream&lt;/a>, or jump directly to &lt;a href="https://www.youtube.com/live/Gm1B5DT8kE0?si=MLAwyoSwGnKb75dI&amp;amp;t=1215" target="_blank" rel="noopener">our part&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>Conclusions&lt;/strong> It was a great experience to present at Real-Time Live! I hope to return in coming years!&lt;/p>
+&lt;p>What we learned from this work is that there is a huge potential for having visuals at live events in AR headsets; we got encouraging feedback at the conference!&lt;/p>
+&lt;p>We also learned that it is very challenging, both in terms of technology, as well as in terms of having a viable business model. But, we have ideas for both. Stay tuned!&lt;/p>
+&lt;p>&lt;strong>Acknowledgements&lt;/strong>
+First and foremost, I would like to thank Brett and Matt to participate in this project. They are exemplars of a rare breed: extremely skilled folks who put creativity before money.&lt;/p>
+&lt;p>Second, I would like to thank Canon for advanced support and a financial contribution to our costs.&lt;/p>
+&lt;p>Last, but not least, I would also like to thank the RTL organizers, who did a really great job of putting this event together! See you next year!&lt;/p>
+&lt;!--
+&lt;figure id="figure-the-team">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="The Team" srcset="
+/media/rtl/team_huc83d12a88c14e6bb7d48ea036a0b40a4_618767_e94a7d77b8229d8730374d15bb4843d8.webp 400w,
+/media/rtl/team_huc83d12a88c14e6bb7d48ea036a0b40a4_618767_18ac242625abffd0033eee0a0f8b21a8.webp 760w,
+/media/rtl/team_huc83d12a88c14e6bb7d48ea036a0b40a4_618767_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/media/rtl/team_huc83d12a88c14e6bb7d48ea036a0b40a4_618767_e94a7d77b8229d8730374d15bb4843d8.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The Team
+&lt;/figcaption>&lt;/figure>--></description></item></channel></rss>
