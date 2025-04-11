@@ -31,14 +31,16 @@ Zeev Farbman, Co-Founder &amp;amp; CEO of Lightricks trying our demo
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/cDUExDUYRaE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;p>#* Presentations&lt;br>
-#- Udart
-#- Yvann
-#* Keynote
-#- Youtube link
-#* Our Demo
-#- Distilled model (screengrab)
-#- David movie&lt;/p></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/project/ai3/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai3/</guid><description>&lt;p>Test&lt;/p></description></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/project/ai2/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai2/</guid><description/></item><item><title>AI Experiments</title><link>https://drsandor.net/project/ai/</link><pubDate>Sun, 29 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai/</guid><description/></item><item><title>Demo at ACM SIGGRAPH Real-Time Live!</title><link>https://drsandor.net/project/rtl/</link><pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/rtl/</guid><description>&lt;p>A long-term dream of mine came true! At the end of July 2024, we showed a demonstration at ACM SIGGRAPH 2024 in Denver for their Real-Time Live! category.&lt;/p>
+&lt;!--
+* Presentations
+- Udart
+- Yvann
+* Keynote
+- Youtube link
+* Our Demo
+- Distilled model (screengrab)
+- David movie
+--></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/project/ai3/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai3/</guid><description>&lt;p>Test&lt;/p></description></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/project/ai2/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai2/</guid><description/></item><item><title>AI Experiments</title><link>https://drsandor.net/project/ai/</link><pubDate>Sun, 29 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai/</guid><description/></item><item><title>Demo at ACM SIGGRAPH Real-Time Live!</title><link>https://drsandor.net/project/rtl/</link><pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/rtl/</guid><description>&lt;p>A long-term dream of mine came true! At the end of July 2024, we showed a demonstration at ACM SIGGRAPH 2024 in Denver for their Real-Time Live! category.&lt;/p>
 &lt;p>First of all, &lt;strong>what is ACM SIGRAPH Real-Time Live?&lt;/strong> It is a specific category at the premiere computer graphics conference &lt;a href="https://en.wikipedia.org/wiki/SIGGRAPH" target="_blank" rel="noopener">ACM SIGGRAPH&lt;/a>. While SIGGRAPH has been running every year since 1974, the Real-Time Live! category (RTL for short) has only been around for 15 years. It is very engaging, as presenters have 6 minutes to show a demonstration of real-time graphics to a large audience of computer graphics professionals (~5000 people). For me, this has always been the most fascinating event of SIGGRAPH, as it shows you the maximum of what’s possible in real-time graphics today. Also, compared to research papers, you can actually see the inventors demonstrating what they made&amp;mdash; this makes much clearer what really works and what doesn’t.&lt;/p>
 &lt;p>Here are some of my favorites from recent years:&lt;/p>
 &lt;ul>
