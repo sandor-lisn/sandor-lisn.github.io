@@ -26,7 +26,61 @@
 &lt;div>
 Quickly discover relevant content by &lt;a href="./publication/">filtering publications&lt;/a>.
 &lt;/div>
-&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/ai/good-bad-ugly/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/good-bad-ugly/</guid><description>&lt;p>I concluded my last AI blog post in October with &amp;ldquo;open source video
+&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/ai/ados/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/ados/</guid><description>&lt;p>On 28 March 2025, I attended the amazing &lt;a href="https://www.lightricks.com/ados" target="_blank" rel="noopener">ADOS&lt;/a> event in Paris at &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>, a new space in Paris for bringing together AI arists and technologists. ADOS was co-organized by &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a> and &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, which was an ideal fit for Artifex Lab: Banadoco is the leading online community for AI art+technology and Lightricks&amp;rsquo;s LTX is the fastest generative AI video model (and it&amp;rsquo;s Open Source on top of that!).&lt;/p>
+&lt;p>Coincidentally, our team has recently been investigating LTX deeply and also has been hanging out a lot on Banadoco&amp;rsquo;s inspiring Discord server. One thing led to another and I was invited to present a keynote at ADOS. We brought most of the team, as well as a bleeding edge demo. Unfortuntately, I missed out on the second day of the event, which featured a hackathon, where our PhD student Hovhannes received a prize (see his upcoming blogpost on our &lt;a href="https://ar-ai.org" target="_blank" rel="noopener">team webpage&lt;/a>).&lt;/p>
+&lt;p>
+&lt;figure id="figure-team-arai-at-ados">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Team ARAI at ADOS" srcset="
+/media/ados/team_hu3a541a33e063e69d3b30aeefb30179f7_534763_b783a900c056276757e7f7017585a4b8.webp 400w,
+/media/ados/team_hu3a541a33e063e69d3b30aeefb30179f7_534763_4448afd20a1677241c97a762bfe02851.webp 760w,
+/media/ados/team_hu3a541a33e063e69d3b30aeefb30179f7_534763_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/media/ados/team_hu3a541a33e063e69d3b30aeefb30179f7_534763_b783a900c056276757e7f7017585a4b8.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Team ARAI at ADOS
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-zeev-farbman-co-founder--ceo-of-lightricks-trying-our-demo">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Zeev Farbman, Co-Founder &amp;amp; CEO of Lightricks trying our demo" srcset="
+/media/ados/demo_hua7d9fbdda16f2d02e5b664a9fb28b240_541462_3cc95a501fbfe4de2ff237a29e99ded4.webp 400w,
+/media/ados/demo_hua7d9fbdda16f2d02e5b664a9fb28b240_541462_007047a2ff3dd4aaa738306758667246.webp 760w,
+/media/ados/demo_hua7d9fbdda16f2d02e5b664a9fb28b240_541462_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/media/ados/demo_hua7d9fbdda16f2d02e5b664a9fb28b240_541462_3cc95a501fbfe4de2ff237a29e99ded4.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Zeev Farbman, Co-Founder &amp;amp; CEO of Lightricks trying our demo
+&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;p>Before reporting about the keynote and demo, I would like to highlight some of my favourite things that I saw at the event. All talks are &lt;a href="https://www.youtube.com/watch?v=gBeZSbaxMvc" target="_blank" rel="noopener">recorded on youtube&lt;/a>; I provide direct links to the talks in the following.&lt;/p>
+&lt;p>I enjoyed &lt;a href="https://www.youtube.com/live/gBeZSbaxMvc?si=orYRKkprSBqWWwBo&amp;amp;t=468" target="_blank" rel="noopener">Emma Catnip&amp;rsquo;s talk&lt;/a>, particularly her work Bloom. It is very soulful and beautifully designed. I will never forget her bitter-sweet explanation: &amp;ldquo;It&amp;rsquo;s about the summer of love I that never had&amp;rdquo;.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/cDUExDUYRaE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Another very interesting artist&amp;rsquo;s talk was by &lt;a href="https://udart.dk" target="_blank" rel="noopener">Vibeke Bertelsen (Udart)&lt;/a>; &lt;a href="https://www.youtube.com/live/gBeZSbaxMvc?si=r3DAzpV5a7a7C8jd&amp;amp;t=8304" target="_blank" rel="noopener">timestamp&lt;/a>. Imagine current AI tools in the hands of H.R. Giger&amp;hellip; Below is one of her award-winning short movies. Definitely most unique!&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/8Vodtg8WNiY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>On the tech side, my favourite talk was by &lt;a href="https://github.com/yvann-ba" target="_blank" rel="noopener">Yvann Barbot&lt;/a>. In &lt;a href="https://www.youtube.com/live/gBeZSbaxMvc?si=utqO7-YM0Oq1c5Fx&amp;amp;t=8960" target="_blank" rel="noopener">his talk&lt;/a>, he showed how easy it is to generate cool audio-reactive video clips using his ComfyUI nodes. One example below by &lt;a href="https://www.youtube.com/@visualfrisson" target="_blank" rel="noopener">Visual Frisson&lt;/a>. After the event, I checked Yvann&amp;rsquo;s youtube channel. I can highly recommend it!&lt;/p>
+&lt;video width="720" controls>
+&lt;source src="frisson.mp4" type="video/mp4" />
+&lt;/video>
+&lt;p>Finally, let me get to my keynote talk and our demo.&lt;/p>
+&lt;p>Due to the extreme technical difficulties involved in our demo, we were working literally till the last minute on it. Chapeau to Dávid Maruscsák and Francesco Dettori for their very hard work near demo time! Very unfortunately, the backend of our demo stopped working 5 minutes before my talk started. As a result, we could not show the demo during my keynote (as we had originally planned), but only 2 hours later. Luckily, most attendants of ADOS were still there and could give it a try!&lt;/p>
+&lt;p>We demonstrate how to use a cloud backend for highspeed generation of spatial videos based on image and text inputs. You can see a similar version of the demo below; however, compared to the demo we showed at ADOS, it is only using 1 RTX4090 GPU for inference, as opposed to 4 H100 GPUs at ADOS, so it runs significantly slower.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Gk2dtoOXDac" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>You can see my keynote on &lt;a href="https://www.youtube.com/live/gBeZSbaxMvc?si=qr5cMNz5WXu8Jt7d&amp;amp;t=7061" target="_blank" rel="noopener">youtube&lt;/a>, where I speak about my long past with AR and my more recent past with AI, and how everything converged into this demo :-)&lt;/p>
+&lt;p>To conclude, I would like to sincerely thank:&lt;/p>
+&lt;ul>
+&lt;li>The &lt;a href="https://www.lightricks.com/ados" target="_blank" rel="noopener">ADOS&lt;/a> organizational team: &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a>, &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, and &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>.&lt;/li>
+&lt;li>Special thanks to Lightricks for giving us early access to their distilled LTX model, which enabled impressive speedups.&lt;/li>
+&lt;li>All &lt;a href="https://ar-ai.org/people/" target="_blank" rel="noopener">ARAI team members&lt;/a> for bearing with my demands :-) Directly involved in the demo were Cyrille Leroux, Thomas Betton, Dávid Maruscsák, Francesco Dettori, and Hovhannes Margaryan.&lt;/li>
+&lt;/ul></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/project/ai3/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai3/</guid><description>&lt;p>Test&lt;/p></description></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/ai/good-bad-ugly/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/good-bad-ugly/</guid><description>&lt;p>I concluded my last AI blog post in October with &amp;ldquo;open source video
 generation models&amp;hellip; will overtake closed sourced ones sooner than
 expected!&amp;rdquo;. &lt;em>Surprise: it has already happened!&lt;/em>&lt;/p>
 &lt;p>In this lengthy blogpost, I want to:&lt;/p>
