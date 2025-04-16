@@ -42,7 +42,7 @@ Zeev Farbman, Co-Founder &amp;amp; CEO of Lightricks trying our demo
 &lt;/video>
 &lt;p>Finally, let me get to my keynote talk and our demo.&lt;/p>
 &lt;p>Due to the extreme technical difficulties involved in our demo, we were working literally till the last minute on it. Chapeau to Dávid Maruscsák and Francesco Dettori for their very hard work near demo time! Very unfortunately, the backend of our demo stopped working 5 minutes before my talk started. As a result, we could not show the demo during my keynote (as we had originally planned), but only 2 hours later. Luckily, most attendants of ADOS were still there and could give it a try!&lt;/p>
-&lt;p>We demonstrate how to use a cloud backend for highspeed generation of spatial videos based on image and text inputs. You can see a similar version of the demo below; however, compared to the demo we showed at ADOS, it is only using 1 RTX4090 GPU for inference, as opposed to 4 H100 GPUs at ADOS, so it runs significantly slower.&lt;/p>
+&lt;p>We demonstrate how to use a cloud backend for highspeed generation of spatial videos based on image and text inputs. You can see a similar version of the demo below; compared to the demo we showed at ADOS, it is only using 1 local RTX 4090 GPU for inference, as opposed to 4 H100 GPUs at ADOS, so inference speed is significantly lower.&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/Gk2dtoOXDac" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
