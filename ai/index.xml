@@ -59,7 +59,7 @@ On the top-left was our input photo. We then developed the images for the storyb
 &lt;li>Render a few quick preview videos and edit prompt by hand if needed (only about 50% of scenes needed prompt editing)
 This workflow worked like a charm!&lt;/li>
 &lt;/ul>
-&lt;p>The main time sink was that I fell into a little side-quest to catch up on LLMs. I tried the new contenders (DeepSeek R1-0528, Qwen 3, DeepSeek R1-0528-Qwen3-8B, etc.), based on 2 programming tests (flappy bird, balls inside a rotating haptagon). Flappy bird is too easy, and rotating heptagon is too hard (see below for how most models fail); I wonder what the sweet spot would be for testing?!&lt;/p>
+&lt;p>The main time sink was that I fell into a little side-quest to catch up on LLMs. I tried the new contenders (DeepSeek R1-0528, Qwen 3, DeepSeek R1-0528-Qwen3-8B, etc.), based on 2 programming tests (flappy bird, balls inside a rotating heptagon). Flappy bird is too easy, and rotating heptagon is too hard (see below for how most models fail); I wonder what the sweet spot would be for testing?!&lt;/p>
 &lt;video width="720" autoplay loop>
 &lt;source src="balls.mp4" type="video/mp4" />
 &lt;/video>
