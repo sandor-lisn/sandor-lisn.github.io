@@ -26,7 +26,123 @@
 &lt;div>
 Quickly discover relevant content by &lt;a href="./publication/">filtering publications&lt;/a>.
 &lt;/div>
-&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>Keynote at ICXR</title><link>https://drsandor.net/project/qingdao/</link><pubDate>Tue, 07 Oct 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/qingdao/</guid><description/></item><item><title>Short Animation with Wan Video, Flux Kontext, and DeepSeek</title><link>https://drsandor.net/ai/minecraft/</link><pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/minecraft/</guid><description>&lt;p>My daughter Kate (7 years old) really loves Minecraft! Together, we used several generative AI tools to create a 1-minute animation based on only 1 input photo of her. The whole project took around 20 hours of work and I learned several lessons that I want to share here.&lt;/p>
+&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>Keynote at ICXR</title><link>https://drsandor.net/project/icxr/</link><pubDate>Tue, 07 Oct 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/icxr/</guid><description>&lt;p>Every time I visit China, I am absolutely astonished by their pace of progress. It is simply not possible to grasp this from the outside, as lots of information is not very accessible from abroad. In this post, I would like to share some of the things I learned during my visit.&lt;/p>
+&lt;p>I presented a keynote at the new and upcoming &lt;a href="https://icxr.net/2025/index.html" target="_blank" rel="noopener">International Conference on Extended Reality&lt;/a> (ICXR); even though it was only the second time that this conference took place, it was well attended. It was co-located with &lt;a href="https://chinavr2025.qdvri.com" target="_blank" rel="noopener">ChinaVR&lt;/a>, the biggest VR conference of China (running since 2001).&lt;/p>
+&lt;p>It is important to understand how Chinese research is organized. The government appoints &lt;a href="https://en.wikipedia.org/wiki/Academician_of_the_Chinese_Academy_of_Sciences" target="_blank" rel="noopener">Academicians (中国科学院院士)&lt;/a> for all important research areas. Then, the Academician has strong influence on the policy, research, and commercial developments in China. I don&amp;rsquo;t think neither the US nor Europe have any equivalent of this. 3 Academicians attended the event:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://cg.cs.tsinghua.edu.cn/shimin.htm" target="_blank" rel="noopener">Shi-min Hu&lt;/a>: Computer Graphics&lt;/li>
+&lt;li>&lt;a href="https://baike.baidu.com/item/%e8%b5%b5%e6%b2%81%e5%b9%b3/7417905" target="_blank" rel="noopener">Qinping Zhao&lt;/a>: Virtual Reality&lt;/li>
+&lt;li>&lt;a href="https://faculty.bjtu.edu.cn/eaie/6358.html" target="_blank" rel="noopener">Hongke Zhang&lt;/a>: Networking&lt;/li>
+&lt;/ul>
+&lt;p>There were also 2 more researchers of that caliber, who I guess will become Academicians sooner or later:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://baoquanchen.info" target="_blank" rel="noopener">Baoquan Chen&lt;/a>: Computer Vision&lt;/li>
+&lt;li>&lt;a href="https://fve.bfa.edu.cn/info/1056/2054.htm" target="_blank" rel="noopener">Yongtian Wang&lt;/a>: Optics for AR/VR&lt;/li>
+&lt;/ul>
+&lt;p>Several companies showed exhibits, including &lt;strong>Goertek&lt;/strong>. To be honest, I have never heard of this company before! But, they are producing &lt;strong>80% of the world&amp;rsquo;s AR and VR glasses&lt;/strong>! Could you have guessed that based on their &lt;a href="https://en.wikipedia.org/wiki/Goertek" target="_blank" rel="noopener">Wikipedia page&lt;/a>? Unfortunately, photos were strictly prohibited at their large booth. I could clearly see that they are not simply a factory for US companies, but very innovative and contributing key technological developments, including:&lt;/p>
+&lt;ul>
+&lt;li>High pixel density display panels (Micro OLED)&lt;/li>
+&lt;li>Miniaturized water cooling for AR/VR glasses (the water-cooled board they showcased was about 2x4 cm big; water pipes around 2mm diameter)&lt;/li>
+&lt;li>Advanced pancake optics&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Hongke Zhang&lt;/strong> presented a thought-provoking keynote along the lines of: What network infrastructure do we need to support the rapidly changing network requirements in an AI world? It included many science-fiction level concepts such as:&lt;/p>
+&lt;ul>
+&lt;li>A longterm roadmap including 6G and beyond with mobile speeds of Terabits per second&lt;/li>
+&lt;li>Mesh-networking with drone swarms&lt;/li>
+&lt;li>Streaming neural content (NERFs, Gaussian Splats, etc)&lt;/li>
+&lt;/ul>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_8a43a8be846f13d72cc33c24cba4b58f.webp 400w,
+/project/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_36d5485571fe887cb67e75c802aaa646.webp 760w,
+/project/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/project/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_8a43a8be846f13d72cc33c24cba4b58f.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_89802289d51d9d197134dc144cfc2eea.webp 400w,
+/project/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_a685ee0f8e782cd067056cc30638a894.webp 760w,
+/project/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/project/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_89802289d51d9d197134dc144cfc2eea.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_e2d2058e8bb3f6c80b97f3304a6a2304.webp 400w,
+/project/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_741f1728e9355540cb4f0051b7cacf1b.webp 760w,
+/project/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/project/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_e2d2058e8bb3f6c80b97f3304a6a2304.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>&lt;/p>
+&lt;p>Next up was &lt;strong>Baoquan Chen&lt;/strong>. A major thread of his talk was along the lines of (please excuse my informal language):&lt;/p>
+&lt;ul>
+&lt;li>AI Video generators along the lines of SORA and VEO suck, because they lack understanding of the physical world. They are essentially a dead end.&lt;/li>
+&lt;li>Gaussian Splatting is very popular now, but it is by itself also a dead end, because of the inherent inflexibility and non-interactiveness.&lt;/li>
+&lt;/ul>
+&lt;p>I already came to similar conclusions, albeit for different reasons :-) He then presented several recent works by his group how to overcome these limitations. In short: real instead of hallucinated physics are needed!&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_9982a9761f77d7bd7df3367926c787fd.webp 400w,
+/project/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_e808e18baa805a907cf8a7ec56af595f.webp 760w,
+/project/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/project/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_9982a9761f77d7bd7df3367926c787fd.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_540916450eb775080b984f1bce2a6c3e.webp 400w,
+/project/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_5ceeb53afb3fb36c5710848b674afd77.webp 760w,
+/project/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/project/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_540916450eb775080b984f1bce2a6c3e.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_a1c070b5b5ff17cf4fc092428a798286.webp 400w,
+/project/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_511db7516ebfbf70775aad112a26ee4f.webp 760w,
+/project/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/project/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_a1c070b5b5ff17cf4fc092428a798286.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>&lt;/p>
+&lt;p>I was extremely glad that &lt;strong>Shi-Min Hu&lt;/strong> chiseled out 20 minutes out of his busy schedule to talk to me. Our chat was very intense&amp;hellip; I now understand better China&amp;rsquo;s strategy how to deal with the import restrictions of NVIDIA GPUs. I mean, at the moment, Chinese AI models are already on the same level as their US counterparts (I personally think that they are actually already better, but this is debatable). They achieved this even though their current GPUs are much weaker than the ones Meta, OpenAI etc. are using. If they get comparable compute power as the US than their AI models will run circles around their US counterparts. It will happen much sooner than the public thinks&amp;hellip; I can&amp;rsquo;t wait to switch to Chinese GPUs!&lt;/p>
+&lt;p>It was a lucky accident that I sat next to &lt;strong>Yongtian Wang&lt;/strong> at the closing dinner. He shared some incredible stories about the custom optics design software he wrote back in the day (in Fortran!): GOLD = &lt;strong>G&lt;/strong>eneral &lt;strong>O&lt;/strong>ptical &lt;strong>L&lt;/strong>ens &lt;strong>D&lt;/strong>esign system :-) As their group can&amp;rsquo;t use the world-wide standard software (Code V; another US import restriction), they have been recently reviving this decade-old software.&lt;/p>
+&lt;p>Finally, I should also spend some words on my keynote. My recent discussions with Notch&amp;rsquo;s Matt Swoboda (the grand wizard of realtime computer graphics) inspired many of the open questions that I discussed in my talk.&lt;/p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_f55721850aaf7cf860e43549482454be.webp 400w,
+/project/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_76bc53af824a7556e83d173b721936b1.webp 760w,
+/project/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/project/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_f55721850aaf7cf860e43549482454be.webp"
+width="760"
+height="428"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>To conclude, a little video from the soundcheck of my presentation. The sound system was really good!&lt;/p>
+&lt;video width="1920" autoplay loop>
+&lt;source src="soundcheck.mp4" type="video/mp4" />
+&lt;/video></description></item><item><title>Short Animation with Wan Video, Flux Kontext, and DeepSeek</title><link>https://drsandor.net/ai/minecraft/</link><pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/minecraft/</guid><description>&lt;p>My daughter Kate (7 years old) really loves Minecraft! Together, we used several generative AI tools to create a 1-minute animation based on only 1 input photo of her. The whole project took around 20 hours of work and I learned several lessons that I want to share here.&lt;/p>
 &lt;h3 id="context">Context&lt;/h3>
 &lt;p>I am still trying to get used to the enormous speed with which generative AI is progressing. 6 months ago, I was blogging about &lt;a href="https://drsandor.net/ai/good-bad-ugly">my experiments with Tencent&amp;rsquo;s Hunyuan Video&lt;/a>, which was an absolute breakthrough at that time. A lot has changed since then! The open-weights generative AI community has fully embraced Alibaba&amp;rsquo;s Wan Video as a superior replacement for Hunyuan. What makes WAN so powerful is that several extensions have been shared openly:&lt;/p>
 &lt;ul>
