@@ -140,7 +140,7 @@ height="428"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;p>To conclude, a little video from the soundcheck of my presentation. The sound system was really good!&lt;/p>
-&lt;video width="1920" autoplay loop>
+&lt;video width="1920" controls loop>
 &lt;source src="soundcheck.mp4" type="video/mp4" />
 &lt;/video></description></item><item><title>Short Animation with Wan Video, Flux Kontext, and DeepSeek</title><link>https://drsandor.net/ai/minecraft/</link><pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/minecraft/</guid><description>&lt;p>My daughter Kate (7 years old) really loves Minecraft! Together, we used several generative AI tools to create a 1-minute animation based on only 1 input photo of her. The whole project took around 20 hours of work and I learned several lessons that I want to share here.&lt;/p>
 &lt;h3 id="context">Context&lt;/h3>
