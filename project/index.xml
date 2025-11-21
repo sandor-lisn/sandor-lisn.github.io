@@ -1,4 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Christian Sandor</title><link>https://drsandor.net/project/</link><atom:link href="https://drsandor.net/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 14:00:00 +0000</lastBuildDate><image><url>https://drsandor.net/media/icon_hu287fcf417612116bcf0d00ac1ba165d7_82622_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://drsandor.net/project/</link></image><item><title>Keynote at ICXR</title><link>https://drsandor.net/project/icxr/</link><pubDate>Fri, 07 Nov 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/icxr/</guid><description>&lt;p>Every time I visit China, I am absolutely astonished by their pace of progress. It is simply not possible to grasp this from the outside, as lots of information is not very accessible from abroad. In this post, I would like to share some of the things I learned during my visit.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Christian Sandor</title><link>https://drsandor.net/project/</link><atom:link href="https://drsandor.net/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Nov 2025 14:00:00 +0000</lastBuildDate><image><url>https://drsandor.net/media/icon_hu287fcf417612116bcf0d00ac1ba165d7_82622_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://drsandor.net/project/</link></image><item><title>Course: Generative AI with ComfyUI</title><link>https://drsandor.net/project/course/</link><pubDate>Tue, 18 Nov 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/course/</guid><description>&lt;blockquote class="wp-block-quote">
+&lt;p>
+The world of Generative AI is complex, and fast-moving. [...] There are so many models, and so many complexities, that this course was essential to cut through all the noise.
+&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://www.linkedin.com/in/matt-swoboda-b820872/" target="_blank" rel="noopener">Matt Swoboda&lt;/a> - &lt;a href="https://www.notch.one" target="_blank" rel="noopener">Notch&lt;/a> - Founder and Lead Developer&lt;/p>
+&lt;p>Over the last few years, we have seen a rapid and wide-spread uptake of generative AI in industry and academia. One tool has established itself as the de-facto standard for rapid experimentation, as well as professional production: &lt;a href="https://en.wikipedia.org/wiki/ComfyUI" target="_blank" rel="noopener">ComfyUI&lt;/a>. It is used in projects ranging from commercial productions like &lt;a href="https://en.wikipedia.org/wiki/The_Wizard_of_Oz_at_Sphere" target="_blank" rel="noopener">The Wizard of Oz at the Las Vegas Sphere&lt;/a> up to leading-edge research projects like &lt;a href="https://github.com/bytedance/ComfyUI-HyperLoRA" target="_blank" rel="noopener">Bytedance&amp;rsquo;s HyperLORA&lt;/a>.&lt;/p>
+&lt;p>Based on my personal experience with using ComfyUI almost daily from day 1, I have developed a course with unique features:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Only uses open-weights models&lt;/strong> that can be run on your own machine; no cloud services are used.&lt;/li>
+&lt;li>&lt;strong>From the ground up:&lt;/strong> after 1.5 hours into this course, you will understand the underlying concept of every single item in the simplest ComfyUI workflow, including: Flow Matching, Variational Autoencoders, CLIP, and CFG.&lt;/li>
+&lt;li>&lt;strong>Dozens of hand-crafted workflows&lt;/strong> as starting point for your own explorations.&lt;/li>
+&lt;li>&lt;strong>Covers essential system administration tasks&lt;/strong> to allow continuous upgrading and also rollbacks of your ComfyUI installation.&lt;/li>
+&lt;/ul>
+&lt;!--
+&lt;figure id="figure-medley-of-course-content-all-generated-live-during-the-course-please-click-to-enlarge">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Medley of course content, all generated live during the course. Please click to enlarge." srcset="
+/project/course/featured_hu023d3431561f09a34c8ed9baf950ffc3_2575599_e83663696f988efb8bf5bc268c2c1a66.webp 400w,
+/project/course/featured_hu023d3431561f09a34c8ed9baf950ffc3_2575599_8242d9c57570775911f5b104c654c042.webp 760w,
+/project/course/featured_hu023d3431561f09a34c8ed9baf950ffc3_2575599_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/project/course/featured_hu023d3431561f09a34c8ed9baf950ffc3_2575599_e83663696f988efb8bf5bc268c2c1a66.webp"
+width="760"
+height="364"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Medley of course content, all generated live during the course. Please click to enlarge.
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-medley-of-course-content-all-generated-live-during-the-course-please-click-to-enlarge">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="quilt.gif" alt="Medley of course content, all generated live during the course. Please click to enlarge." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Medley of course content, all generated live during the course. Please click to enlarge.
+&lt;/figcaption>&lt;/figure>
+-->
+&lt;p>Below, a video collage of some of the course content, all generated live during the course.&lt;/p>
+&lt;video width="720" controls loop>
+&lt;source src="quilt.m4v" type="video/mp4" />
+&lt;/video>
+&lt;blockquote class="wp-block-quote">
+&lt;p>
+Participants don’t just reproduce results: they understand the role of each block, how parameters influence outcomes, and how to adapt the system to their own creative goals.
+&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://bammey.com" target="_blank" rel="noopener">Quentin Bammey&lt;/a> - &lt;a href="https://en.wikipedia.org/wiki/T%c3%a9l%c3%a9com_Paris" target="_blank" rel="noopener">Télécom Paris&lt;/a> - Assistant Professor (Machine Learning)&lt;/p>
+&lt;p>The course contains theoretical presentations, demonstrations, and hands-on exercises. The main modules are:&lt;/p>
+&lt;ol>
+&lt;li>Course Introduction&lt;/li>
+&lt;li>Image Generation&lt;/li>
+&lt;li>Video Generation&lt;/li>
+&lt;li>Complex Workflows; e.g.
+&lt;ul>
+&lt;li>Spatio-temporal upscaling of videos (e.g. 16fps@720p =&amp;gt; 60fps@4k)&lt;/li>
+&lt;li>Powerful workflows combining vision language models, large language models, and video generation models&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>The full course takes 2 days but can be presented as a distilled version in 1 day. The content will be adapted to the client&amp;rsquo;s needs, for example:&lt;/p>
+&lt;ul>
+&lt;li>Technical vs. design focus&lt;/li>
+&lt;li>Audience size&lt;/li>
+&lt;li>Available hardware for students&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Please &lt;a href="mailto:christian@sandor.com">email me&lt;/a> your requirements to receive a &lt;strong>custom quote&lt;/strong>.&lt;/em>&lt;/p>
+&lt;h2 id="testimonials">Testimonials&lt;/h2>
+&lt;blockquote class="wp-block-quote">
+&lt;p>
+The world of Generative AI is complex, and fast-moving. Dr Sandor's excellent course demystified it for us; first with a solid technical explanation of the concepts, and then a guided exploration of the key workflows and models for image and video generation, via ComfyUI. Hands-on learning and demonstration, plus the excellent course materials, got us to the point of being able to do things for ourselves confidently and quickly. There are so many models, and so many complexities, that this course was essential to cut through all the noise.
+&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://www.linkedin.com/in/matt-swoboda-b820872/" target="_blank" rel="noopener">Matt Swoboda&lt;/a> - &lt;a href="https://www.notch.one" target="_blank" rel="noopener">Notch&lt;/a> - Founder and Lead Developer&lt;/p>
+&lt;blockquote class="wp-block-quote">
+&lt;p>
+Christian Sandor’s ComfyUI tutorial offers a remarkably clear introduction to modern image and video generation. He presents the core ideas behind these models in a way that is intuitive and immediately connected to practice. Rather than letting ComfyUI remain a collection of opaque nodes, he shows how each step of the workflow reflects a meaningful operation in the underlying process, and why the interface is structured the way it is. This gives participants a solid conceptual footing before they even start experimenting.
+&lt;/p>
+&lt;p>
+As the session unfolds, everyone works with templates while also learning how to read, modify, and build workflows with intention. Participants don’t just reproduce results: they understand the role of each block, how parameters influence outcomes, and how to adapt the system to their own creative goals. It is a course that makes complex ideas accessible without simplifying them, and that leaves participants both confident and genuinely capable. I highly recommend Dr. Sandor's course to anyone who wants to use ComfyUI thoughtfully and with real understanding.
+&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://bammey.com" target="_blank" rel="noopener">Quentin Bammey&lt;/a> - &lt;a href="https://en.wikipedia.org/wiki/T%c3%a9l%c3%a9com_Paris" target="_blank" rel="noopener">Télécom Paris&lt;/a> - Assistant Professor (Machine Learning)&lt;/p>
+&lt;blockquote class="wp-block-quote">
+&lt;p>
+Before the course, I had no real experience working with ComfyUI. I had seen it in action and knew how powerful it is. I wanted to learn its image and video generation workflows, but the amount of information and moving pieces involved can be quite overwhelming at first. Every time I tried to start my own projects, I got lost in the complexity of setting up the tool and finding the right workflow for my ideas, and I never managed to take the time to truly dig in and learn it thoroughly. Fortunately, I had the opportunity to take the course, and it really made all the difference.
+&lt;/p>
+&lt;p>
+Dr Sandor’s excellent instruction, combined with his insight and the course’s high-quality materials, provided me with extensive hands-on knowledge — covering everything from the initial tool setup and the theory behind the workflows to the creation of complex workflows that I now use confidently in my own projects. The course not only gave me a solid understanding of ComfyUI, but also the confidence to explore and build advanced image and video generation pipelines independently. The course materials go even further, providing me with excellent reference points that I can return to whenever needed.
+&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;a href="https://www.linkedin.com/in/nikoryytty/" target="_blank" rel="noopener">Niko Ryytty&lt;/a> - &lt;a href="https://www.notch.one" target="_blank" rel="noopener">Notch&lt;/a> - Architect &amp;amp; Web Technologies Lead&lt;/p></description></item><item><title>Keynote at ICXR</title><link>https://drsandor.net/project/icxr/</link><pubDate>Fri, 07 Nov 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/icxr/</guid><description>&lt;p>Every time I visit China, I am absolutely astonished by their pace of progress. It is simply not possible to grasp this from the outside, as lots of information is not very accessible from abroad. In this post, I would like to share some of the things I learned during my visit.&lt;/p>
 &lt;p>I presented a keynote at the new and upcoming &lt;a href="https://icxr.net/2025/index.html" target="_blank" rel="noopener">International Conference on Extended Reality&lt;/a> (ICXR); even though it was only the second time that this conference took place, it was well attended. It was co-located with &lt;a href="https://chinavr2025.qdvri.com" target="_blank" rel="noopener">ChinaVR&lt;/a>, the biggest VR conference of China (running since 2001).&lt;/p>
 &lt;p>It is important to understand how Chinese research is organized. The Chinese research community elects &lt;a href="https://en.wikipedia.org/wiki/Academician_of_the_Chinese_Academy_of_Sciences" target="_blank" rel="noopener">Academicians (中国科学院院士)&lt;/a> for all important research areas. Then, the Academician has strong influence on the policy, research, and commercial developments in China. I don&amp;rsquo;t think neither the US nor Europe have any equivalent of this. 3 Academicians attended the event:&lt;/p>
 &lt;ul>
