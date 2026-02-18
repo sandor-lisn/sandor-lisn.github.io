@@ -156,9 +156,9 @@ Failure cases: &amp;quot;World War 3&amp;quot;, &amp;quot;Noobini Pizzanini&amp;
 &lt;p>Looking forward to teaching this class again next year!&lt;/p>
 &lt;h1 id="acknowledgements">Acknowledgements&lt;/h1>
 &lt;ul>
-&lt;li>ComfyUI team for creating an amazing tool&lt;/li>
-&lt;li>Kijai for the WanAnimate workflow template&lt;/li>
-&lt;li>Tyler M. Bernabe (@jboogxcreative) for answering my questions related to WanAnimate&lt;/li>
+&lt;li>&lt;a href="https://www.comfy.org" target="_blank" rel="noopener">ComfyUI&lt;/a> team for creating an amazing tool&lt;/li>
+&lt;li>&lt;a href="https://github.com/kijai/" target="_blank" rel="noopener">Kijai&lt;/a> for the WanAnimate workflow template&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/@enigmatic_e/videos" target="_blank" rel="noopener">enigmatic_e&lt;/a> for answering my questions related to WanAnimate&lt;/li>
 &lt;/ul></description></item><item><title>Short Animation with Wan Video, Flux Kontext, and DeepSeek</title><link>https://drsandor.net/ai/minecraft/</link><pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/minecraft/</guid><description>&lt;p>My daughter Kate (7 years old) really loves Minecraft! Together, we used several generative AI tools to create a 1-minute animation based on only 1 input photo of her. The whole project took around 20 hours of work and I learned several lessons that I want to share here.&lt;/p>
 &lt;h3 id="context">Context&lt;/h3>
 &lt;p>I am still trying to get used to the enormous speed with which generative AI is progressing. 6 months ago, I was blogging about &lt;a href="https://drsandor.net/ai/good-bad-ugly">my experiments with Tencent&amp;rsquo;s Hunyuan Video&lt;/a>, which was an absolute breakthrough at that time. A lot has changed since then! The open-weights generative AI community has fully embraced Alibaba&amp;rsquo;s Wan Video as a superior replacement for Hunyuan. What makes WAN so powerful is that several extensions have been shared openly:&lt;/p>
