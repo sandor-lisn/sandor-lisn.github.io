@@ -26,7 +26,8 @@
 &lt;div>
 Quickly discover relevant content by &lt;a href="./publication/">filtering publications&lt;/a>.
 &lt;/div>
-&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>Launching Dr. Sandor's ComfyUI Academy</title><link>https://drsandor.net/project/academy/</link><pubDate>Sun, 01 Feb 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/academy/</guid><description>&lt;p>Test&lt;/p></description></item><item><title>Teaching AI at Elementary School</title><link>https://drsandor.net/ai/school/</link><pubDate>Sun, 01 Feb 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/school/</guid><description>&lt;p>I am super happy with my daughter Kate&amp;rsquo;s school! The &lt;a href="https://en.wikipedia.org/wiki/Montessori_education" target="_blank" rel="noopener">Montessori system&lt;/a> is very clever, as it places children of different ages into one class; then, children form working groups according to their skills. The children work with older children on subjects they are mastering well and with younger children if they need more time to consolidate their learning.&lt;/p>
+&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>Launching Dr. Sandor's ComfyUI Academy</title><link>https://drsandor.net/post/academy/</link><pubDate>Sun, 01 Feb 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/academy/</guid><description>&lt;p>Based on customer feedback, I have completely redesigned my offers for teaching Generative AI with ComfyUI.&lt;/p>
+&lt;p>Learn more at &lt;a href="https://comfyui.academy" target="_blank" rel="noopener">comfyui.academy&lt;/a>.&lt;/p></description></item><item><title>Teaching AI at Elementary School</title><link>https://drsandor.net/post/school/</link><pubDate>Sun, 01 Feb 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/school/</guid><description>&lt;p>I am super happy with my daughter Kate&amp;rsquo;s school! The &lt;a href="https://en.wikipedia.org/wiki/Montessori_education" target="_blank" rel="noopener">Montessori system&lt;/a> is very clever, as it places children of different ages into one class; then, children form working groups according to their skills. The children work with older children on subjects they are mastering well and with younger children if they need more time to consolidate their learning.&lt;/p>
 &lt;p>Last fall, the school asked parents to teach the children about their professions; what a program they got! For example, a neuro-surgeon who investigates the source of consciousness through fMRI scans, a heart surgeon, a high-frequency trader, an aviator, an architect, a politician, and&amp;hellip;. a computer science professor :-) These encounters helped give meaning to the children’s learning and opened their imaginations to the scientific and technological careers of tomorrow.&lt;/p>
 &lt;p>The requirements were:&lt;/p>
 &lt;ul>
@@ -39,10 +40,10 @@ Quickly discover relevant content by &lt;a href="./publication/">filtering publi
 &lt;figure id="figure-kate-showing-ar-demos-virtual-dinosaur--virtual-makeup">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Kate showing AR demos: virtual dinosaur &amp;amp; virtual makeup" srcset="
-/ai/school/ar_hu4bdee9bba99588a777bea6d5d2ca67a2_215519_251709f69b3268ad0416a4f62f552627.webp 400w,
-/ai/school/ar_hu4bdee9bba99588a777bea6d5d2ca67a2_215519_f3d1e79985c25b32ecd2bae0a9e6742c.webp 760w,
-/ai/school/ar_hu4bdee9bba99588a777bea6d5d2ca67a2_215519_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/school/ar_hu4bdee9bba99588a777bea6d5d2ca67a2_215519_251709f69b3268ad0416a4f62f552627.webp"
+/post/school/ar_hu4bdee9bba99588a777bea6d5d2ca67a2_215519_251709f69b3268ad0416a4f62f552627.webp 400w,
+/post/school/ar_hu4bdee9bba99588a777bea6d5d2ca67a2_215519_f3d1e79985c25b32ecd2bae0a9e6742c.webp 760w,
+/post/school/ar_hu4bdee9bba99588a777bea6d5d2ca67a2_215519_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/school/ar_hu4bdee9bba99588a777bea6d5d2ca67a2_215519_251709f69b3268ad0416a4f62f552627.webp"
 width="760"
 height="241"
 loading="lazy" data-zoomable />&lt;/div>
@@ -76,10 +77,10 @@ Kate showing AR demos: virtual dinosaur &amp;amp; virtual makeup
 &lt;figure id="figure-comically-bad-output-of-flux2-max-prompt-_replace-4-of-the-bastketball-players-with-the-4-persons-from-image-2-preserve-the-clothes-and-body-poses-of-the-basketball-players_">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Comically bad output of Flux2 Max. Prompt: _Replace 4 of the bastketball players with the 4 persons from image 2. Preserve the clothes and body poses of the basketball players_" srcset="
-/ai/school/flux2dev_hu092d72a4f9325702cd798af50031bdf5_607819_c4252e48a563c25a0a701d1900888c67.webp 400w,
-/ai/school/flux2dev_hu092d72a4f9325702cd798af50031bdf5_607819_a9e07102271ce8f961f02b16ff656eeb.webp 760w,
-/ai/school/flux2dev_hu092d72a4f9325702cd798af50031bdf5_607819_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/school/flux2dev_hu092d72a4f9325702cd798af50031bdf5_607819_c4252e48a563c25a0a701d1900888c67.webp"
+/post/school/flux2dev_hu092d72a4f9325702cd798af50031bdf5_607819_c4252e48a563c25a0a701d1900888c67.webp 400w,
+/post/school/flux2dev_hu092d72a4f9325702cd798af50031bdf5_607819_a9e07102271ce8f961f02b16ff656eeb.webp 760w,
+/post/school/flux2dev_hu092d72a4f9325702cd798af50031bdf5_607819_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/school/flux2dev_hu092d72a4f9325702cd798af50031bdf5_607819_c4252e48a563c25a0a701d1900888c67.webp"
 width="760"
 height="590"
 loading="lazy" data-zoomable />&lt;/div>
@@ -100,10 +101,10 @@ Comically bad output of Flux2 Max. Prompt: &lt;em>Replace 4 of the bastketball p
 &lt;figure id="figure-prompts-for-chriss-demo-quota-couple-has-picknick-on-the-beachquot--quotin-the-background-a-giant-octopusquot-quotin-the-style-of-a-chinese-inkbrush-paintingquot-quotof-a-japanese-woodprintquot-quotof-van-goghquot-quot-of-monetquot-the-giant-octopus-became-somewhat-of-a-running-gag-in-the-following">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Prompts for Chris&amp;#39;s demo: &amp;amp;quot;A couple has picknick on the beach&amp;amp;quot;, &amp;amp;quot;...in the background a giant octopus&amp;amp;quot;, &amp;amp;quot;...in the style of a chinese inkbrush painting&amp;amp;quot;, &amp;amp;quot;...of a Japanese woodprint&amp;amp;quot;, &amp;amp;quot;...of van Gogh&amp;amp;quot;, &amp;amp;quot;... of Monet&amp;amp;quot; (the giant octopus became somewhat of a running gag in the following)" srcset="
-/ai/school/z-chris_huc0eff606a6a823079765614c4e47b078_567712_9574dc9653a596ff71901ab388b159d5.webp 400w,
-/ai/school/z-chris_huc0eff606a6a823079765614c4e47b078_567712_a549c55552b9eeea33afbee68a4e383f.webp 760w,
-/ai/school/z-chris_huc0eff606a6a823079765614c4e47b078_567712_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/school/z-chris_huc0eff606a6a823079765614c4e47b078_567712_9574dc9653a596ff71901ab388b159d5.webp"
+/post/school/z-chris_huc0eff606a6a823079765614c4e47b078_567712_9574dc9653a596ff71901ab388b159d5.webp 400w,
+/post/school/z-chris_huc0eff606a6a823079765614c4e47b078_567712_a549c55552b9eeea33afbee68a4e383f.webp 760w,
+/post/school/z-chris_huc0eff606a6a823079765614c4e47b078_567712_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/school/z-chris_huc0eff606a6a823079765614c4e47b078_567712_9574dc9653a596ff71901ab388b159d5.webp"
 width="760"
 height="503"
 loading="lazy" data-zoomable />&lt;/div>
@@ -113,10 +114,10 @@ Prompts for Chris&amp;rsquo;s demo: &amp;quot;A couple has picknick on the beach
 &lt;figure id="figure-kates-demo-was-more-sophisticated-and-showed-a-complex-scene-being-built-step-by-step-by-simply-appending-terms-quota-minecraft-playerquot--quoton-a-horsequot-quotin-a-golden-armorquot-quotzombies-in-the-backgroundquot-quotthe-sun-is-risingquot-quot-the-zombies-start-burningquot">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Kate&amp;#39;s demo was more sophisticated and showed a complex scene being built step by step by simply appending terms: &amp;amp;quot;A minecraft player&amp;amp;quot;, &amp;amp;quot;...on a horse&amp;amp;quot;, &amp;amp;quot;...in a golden armor&amp;amp;quot;, &amp;amp;quot;...zombies in the background&amp;amp;quot;, &amp;amp;quot;...the sun is rising&amp;amp;quot;, &amp;amp;quot;... the zombies start burning&amp;amp;quot;" srcset="
-/ai/school/z-kate_hu4439a544f6f0c70ae9741c35959ceeaf_519925_cfb3a187f416da15a8e14d8d6dc5de98.webp 400w,
-/ai/school/z-kate_hu4439a544f6f0c70ae9741c35959ceeaf_519925_78abbd2fb44e06c043c4654c9b721643.webp 760w,
-/ai/school/z-kate_hu4439a544f6f0c70ae9741c35959ceeaf_519925_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/school/z-kate_hu4439a544f6f0c70ae9741c35959ceeaf_519925_cfb3a187f416da15a8e14d8d6dc5de98.webp"
+/post/school/z-kate_hu4439a544f6f0c70ae9741c35959ceeaf_519925_cfb3a187f416da15a8e14d8d6dc5de98.webp 400w,
+/post/school/z-kate_hu4439a544f6f0c70ae9741c35959ceeaf_519925_78abbd2fb44e06c043c4654c9b721643.webp 760w,
+/post/school/z-kate_hu4439a544f6f0c70ae9741c35959ceeaf_519925_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/school/z-kate_hu4439a544f6f0c70ae9741c35959ceeaf_519925_cfb3a187f416da15a8e14d8d6dc5de98.webp"
 width="760"
 height="504"
 loading="lazy" data-zoomable />&lt;/div>
@@ -127,10 +128,10 @@ Kate&amp;rsquo;s demo was more sophisticated and showed a complex scene being bu
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/ai/school/z-kids1_hu944912be9576e60c473318869ca70ad4_284185_636d5f92c61a970e45efb13c2ed2070b.webp 400w,
-/ai/school/z-kids1_hu944912be9576e60c473318869ca70ad4_284185_917aac62b3def03ecc87b77c3f9d1a05.webp 760w,
-/ai/school/z-kids1_hu944912be9576e60c473318869ca70ad4_284185_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/school/z-kids1_hu944912be9576e60c473318869ca70ad4_284185_636d5f92c61a970e45efb13c2ed2070b.webp"
+/post/school/z-kids1_hu944912be9576e60c473318869ca70ad4_284185_636d5f92c61a970e45efb13c2ed2070b.webp 400w,
+/post/school/z-kids1_hu944912be9576e60c473318869ca70ad4_284185_917aac62b3def03ecc87b77c3f9d1a05.webp 760w,
+/post/school/z-kids1_hu944912be9576e60c473318869ca70ad4_284185_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/school/z-kids1_hu944912be9576e60c473318869ca70ad4_284185_636d5f92c61a970e45efb13c2ed2070b.webp"
 width="760"
 height="250"
 loading="lazy" data-zoomable />&lt;/div>
@@ -138,10 +139,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure id="figure-left-quota-montessori-class-roomquot-right-quotwith-a-giant-octopusquot">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Left: &amp;amp;quot;A montessori class room&amp;amp;quot;, right: &amp;amp;quot;...with a giant octopus&amp;amp;quot;" srcset="
-/ai/school/z-kids2_hu608a770f10d7e8bcf65e10c71e9e523c_195646_053531bc5a603479d0806cfe88dabc91.webp 400w,
-/ai/school/z-kids2_hu608a770f10d7e8bcf65e10c71e9e523c_195646_9f54d0155ce99c7b1ca7be58727e12e4.webp 760w,
-/ai/school/z-kids2_hu608a770f10d7e8bcf65e10c71e9e523c_195646_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/school/z-kids2_hu608a770f10d7e8bcf65e10c71e9e523c_195646_053531bc5a603479d0806cfe88dabc91.webp"
+/post/school/z-kids2_hu608a770f10d7e8bcf65e10c71e9e523c_195646_053531bc5a603479d0806cfe88dabc91.webp 400w,
+/post/school/z-kids2_hu608a770f10d7e8bcf65e10c71e9e523c_195646_9f54d0155ce99c7b1ca7be58727e12e4.webp 760w,
+/post/school/z-kids2_hu608a770f10d7e8bcf65e10c71e9e523c_195646_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/school/z-kids2_hu608a770f10d7e8bcf65e10c71e9e523c_195646_053531bc5a603479d0806cfe88dabc91.webp"
 width="760"
 height="377"
 loading="lazy" data-zoomable />&lt;/div>
@@ -151,10 +152,10 @@ Left: &amp;quot;A montessori class room&amp;quot;, right: &amp;quot;&amp;hellip;
 &lt;figure id="figure-failure-cases-quotworld-war-3quot-quotnoobini-pizzaniniquot-this-seems-to-be-a-roblox-characterhttpsstealabrainrotfandomcomwikinoobini_pizzanini">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Failure cases: &amp;amp;quot;World War 3&amp;amp;quot;, &amp;amp;quot;Noobini Pizzanini&amp;amp;quot; (this seems to be a [Roblox character](https://stealabrainrot.fandom.com/wiki/Noobini_Pizzanini))" srcset="
-/ai/school/z-kids3_hu9db9e4ef8eb7215112ccffb284276325_162678_20424f0b7866d4802d689a1140551717.webp 400w,
-/ai/school/z-kids3_hu9db9e4ef8eb7215112ccffb284276325_162678_981381119ae899d2e428035fe2f3e4f3.webp 760w,
-/ai/school/z-kids3_hu9db9e4ef8eb7215112ccffb284276325_162678_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/school/z-kids3_hu9db9e4ef8eb7215112ccffb284276325_162678_20424f0b7866d4802d689a1140551717.webp"
+/post/school/z-kids3_hu9db9e4ef8eb7215112ccffb284276325_162678_20424f0b7866d4802d689a1140551717.webp 400w,
+/post/school/z-kids3_hu9db9e4ef8eb7215112ccffb284276325_162678_981381119ae899d2e428035fe2f3e4f3.webp 760w,
+/post/school/z-kids3_hu9db9e4ef8eb7215112ccffb284276325_162678_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/school/z-kids3_hu9db9e4ef8eb7215112ccffb284276325_162678_20424f0b7866d4802d689a1140551717.webp"
 width="760"
 height="378"
 loading="lazy" data-zoomable />&lt;/div>
@@ -187,7 +188,7 @@ Failure cases: &amp;quot;World War 3&amp;quot;, &amp;quot;Noobini Pizzanini&amp;
 &lt;li>&lt;a href="https://www.comfy.org" target="_blank" rel="noopener">ComfyUI&lt;/a> team for creating an amazing tool&lt;/li>
 &lt;li>&lt;a href="https://github.com/kijai/" target="_blank" rel="noopener">Kijai&lt;/a> for the WanAnimate workflow template&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/@enigmatic_e/videos" target="_blank" rel="noopener">enigmatic_e&lt;/a> for answering my questions related to WanAnimate&lt;/li>
-&lt;/ul></description></item><item><title>Teaching AI at Elementary School</title><link>https://drsandor.net/project/ai-school/</link><pubDate>Sun, 01 Feb 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai-school/</guid><description>&lt;p>Test&lt;/p></description></item><item><title>Course: Generative AI with ComfyUI</title><link>https://drsandor.net/project/course/</link><pubDate>Tue, 18 Nov 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/course/</guid><description>&lt;p>Page has moved to &lt;a href="https://comfyui.academy" target="_blank" rel="noopener">https://comfyui.academy&lt;/a>&lt;/p></description></item><item><title>Keynote at ICXR</title><link>https://drsandor.net/project/icxr/</link><pubDate>Fri, 07 Nov 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/icxr/</guid><description>&lt;p>Every time I visit China, I am absolutely astonished by their pace of progress. It is simply not possible to grasp this from the outside, as lots of information is not very accessible from abroad. In this post, I would like to share some of the things I learned during my visit.&lt;/p>
+&lt;/ul></description></item><item><title>Keynote at ICXR</title><link>https://drsandor.net/post/icxr/</link><pubDate>Fri, 07 Nov 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/icxr/</guid><description>&lt;p>Every time I visit China, I am absolutely astonished by their pace of progress. It is simply not possible to grasp this from the outside, as lots of information is not very accessible from abroad. In this post, I would like to share some of the things I learned during my visit.&lt;/p>
 &lt;p>I presented a keynote at the new and upcoming &lt;a href="https://icxr.net/2025/index.html" target="_blank" rel="noopener">International Conference on Extended Reality&lt;/a> (ICXR); even though it was only the second time that this conference took place, it was well attended. It was co-located with &lt;a href="https://chinavr2025.qdvri.com" target="_blank" rel="noopener">ChinaVR&lt;/a>, the biggest VR conference of China (running since 2001).&lt;/p>
 &lt;p>It is important to understand how Chinese research is organized. The Chinese research community elects &lt;a href="https://en.wikipedia.org/wiki/Academician_of_the_Chinese_Academy_of_Sciences" target="_blank" rel="noopener">Academicians (中国科学院院士)&lt;/a> for all important research areas. Then, the Academician has strong influence on the policy, research, and commercial developments in China. I don&amp;rsquo;t think neither the US nor Europe have any equivalent of this. 3 Academicians attended the event:&lt;/p>
 &lt;ul>
@@ -216,10 +217,10 @@ Failure cases: &amp;quot;World War 3&amp;quot;, &amp;quot;Noobini Pizzanini&amp;
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/project/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_8a43a8be846f13d72cc33c24cba4b58f.webp 400w,
-/project/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_36d5485571fe887cb67e75c802aaa646.webp 760w,
-/project/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/project/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_8a43a8be846f13d72cc33c24cba4b58f.webp"
+/post/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_8a43a8be846f13d72cc33c24cba4b58f.webp 400w,
+/post/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_36d5485571fe887cb67e75c802aaa646.webp 760w,
+/post/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/icxr/zhang1_hu307ffe06fa0f0a670173d11c2083b3d1_607338_8a43a8be846f13d72cc33c24cba4b58f.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable />&lt;/div>
@@ -227,10 +228,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/project/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_89802289d51d9d197134dc144cfc2eea.webp 400w,
-/project/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_a685ee0f8e782cd067056cc30638a894.webp 760w,
-/project/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/project/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_89802289d51d9d197134dc144cfc2eea.webp"
+/post/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_89802289d51d9d197134dc144cfc2eea.webp 400w,
+/post/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_a685ee0f8e782cd067056cc30638a894.webp 760w,
+/post/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/icxr/zhang2_hu4a70eccacf39bf605e2091d4dd40c932_633050_89802289d51d9d197134dc144cfc2eea.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable />&lt;/div>
@@ -238,10 +239,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/project/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_e2d2058e8bb3f6c80b97f3304a6a2304.webp 400w,
-/project/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_741f1728e9355540cb4f0051b7cacf1b.webp 760w,
-/project/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/project/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_e2d2058e8bb3f6c80b97f3304a6a2304.webp"
+/post/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_e2d2058e8bb3f6c80b97f3304a6a2304.webp 400w,
+/post/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_741f1728e9355540cb4f0051b7cacf1b.webp 760w,
+/post/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/icxr/zhang3_hue07d29e6f16d0edda3870e3fa88a1557_629518_e2d2058e8bb3f6c80b97f3304a6a2304.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable />&lt;/div>
@@ -256,10 +257,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/project/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_9982a9761f77d7bd7df3367926c787fd.webp 400w,
-/project/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_e808e18baa805a907cf8a7ec56af595f.webp 760w,
-/project/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/project/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_9982a9761f77d7bd7df3367926c787fd.webp"
+/post/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_9982a9761f77d7bd7df3367926c787fd.webp 400w,
+/post/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_e808e18baa805a907cf8a7ec56af595f.webp 760w,
+/post/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/icxr/chen1_hufe082b017d9719ead8de3b0b5e59b3d3_544830_9982a9761f77d7bd7df3367926c787fd.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable />&lt;/div>
@@ -267,10 +268,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/project/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_540916450eb775080b984f1bce2a6c3e.webp 400w,
-/project/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_5ceeb53afb3fb36c5710848b674afd77.webp 760w,
-/project/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/project/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_540916450eb775080b984f1bce2a6c3e.webp"
+/post/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_540916450eb775080b984f1bce2a6c3e.webp 400w,
+/post/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_5ceeb53afb3fb36c5710848b674afd77.webp 760w,
+/post/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/icxr/chen2_huadedc5b8b6f11091bcbfafbc1c1ed320_505349_540916450eb775080b984f1bce2a6c3e.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable />&lt;/div>
@@ -278,10 +279,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/project/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_a1c070b5b5ff17cf4fc092428a798286.webp 400w,
-/project/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_511db7516ebfbf70775aad112a26ee4f.webp 760w,
-/project/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/project/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_a1c070b5b5ff17cf4fc092428a798286.webp"
+/post/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_a1c070b5b5ff17cf4fc092428a798286.webp 400w,
+/post/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_511db7516ebfbf70775aad112a26ee4f.webp 760w,
+/post/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/icxr/chen3_hu2784ae0ef6911b4defd144ef4bc2371f_796921_a1c070b5b5ff17cf4fc092428a798286.webp"
 width="760"
 height="570"
 loading="lazy" data-zoomable />&lt;/div>
@@ -292,10 +293,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/project/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_f55721850aaf7cf860e43549482454be.webp 400w,
-/project/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_76bc53af824a7556e83d173b721936b1.webp 760w,
-/project/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/project/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_f55721850aaf7cf860e43549482454be.webp"
+/post/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_f55721850aaf7cf860e43549482454be.webp 400w,
+/post/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_76bc53af824a7556e83d173b721936b1.webp 760w,
+/post/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/icxr/questions_hu5636f1c492ebb8d576e1c13f2147d42f_394607_f55721850aaf7cf860e43549482454be.webp"
 width="760"
 height="428"
 loading="lazy" data-zoomable />&lt;/div>
@@ -303,7 +304,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>To conclude, a little video from the soundcheck of my presentation. The sound system was really good!&lt;/p>
 &lt;video width="1920" controls loop>
 &lt;source src="soundcheck.mp4" type="video/mp4" />
-&lt;/video></description></item><item><title>Short Animation with Wan Video, Flux Kontext, and DeepSeek</title><link>https://drsandor.net/ai/minecraft/</link><pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/minecraft/</guid><description>&lt;p>My daughter Kate (7 years old) really loves Minecraft! Together, we used several generative AI tools to create a 1-minute animation based on only 1 input photo of her. The whole project took around 20 hours of work and I learned several lessons that I want to share here.&lt;/p>
+&lt;/video></description></item><item><title>Keynote at ICXR</title><link/><pubDate>Fri, 07 Nov 2025 14:00:00 +0000</pubDate><guid/><description/></item><item><title>Short Animation with Wan Video, Flux Kontext, and DeepSeek</title><link>https://drsandor.net/post/minecraft/</link><pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/minecraft/</guid><description>&lt;p>My daughter Kate (7 years old) really loves Minecraft! Together, we used several generative AI tools to create a 1-minute animation based on only 1 input photo of her. The whole project took around 20 hours of work and I learned several lessons that I want to share here.&lt;/p>
 &lt;h3 id="context">Context&lt;/h3>
 &lt;p>I am still trying to get used to the enormous speed with which generative AI is progressing. 6 months ago, I was blogging about &lt;a href="https://drsandor.net/ai/good-bad-ugly">my experiments with Tencent&amp;rsquo;s Hunyuan Video&lt;/a>, which was an absolute breakthrough at that time. A lot has changed since then! The open-weights generative AI community has fully embraced Alibaba&amp;rsquo;s Wan Video as a superior replacement for Hunyuan. What makes WAN so powerful is that several extensions have been shared openly:&lt;/p>
 &lt;ul>
@@ -334,10 +335,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;figure id="figure-final-storyboard-made-with-flux-kontext">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Final Storyboard made with Flux Kontext" srcset="
-/ai/minecraft/storyboard_hu71eebfa1490ae85140f5f5e02c9081c4_2127435_4f2db40b4c927cdee4274add7ee71872.webp 400w,
-/ai/minecraft/storyboard_hu71eebfa1490ae85140f5f5e02c9081c4_2127435_c9d5eeac03606f18fa5302260df2c8e4.webp 760w,
-/ai/minecraft/storyboard_hu71eebfa1490ae85140f5f5e02c9081c4_2127435_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/minecraft/storyboard_hu71eebfa1490ae85140f5f5e02c9081c4_2127435_4f2db40b4c927cdee4274add7ee71872.webp"
+/post/minecraft/storyboard_hu71eebfa1490ae85140f5f5e02c9081c4_2127435_4f2db40b4c927cdee4274add7ee71872.webp 400w,
+/post/minecraft/storyboard_hu71eebfa1490ae85140f5f5e02c9081c4_2127435_c9d5eeac03606f18fa5302260df2c8e4.webp 760w,
+/post/minecraft/storyboard_hu71eebfa1490ae85140f5f5e02c9081c4_2127435_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/minecraft/storyboard_hu71eebfa1490ae85140f5f5e02c9081c4_2127435_4f2db40b4c927cdee4274add7ee71872.webp"
 width="760"
 height="428"
 loading="lazy" data-zoomable />&lt;/div>
@@ -387,10 +388,10 @@ You are a creative video prompt generator specialized in crafting unique, vivid 
 &lt;figure id="figure-the-llm-took-the-instructions-to-be-unique-and-creative-very-seriously-the-tigers-head-is-exploding-into-playing-cards">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="The LLM took the instructions to be unique and creative very seriously. The tiger&amp;#39;s head is exploding into playing cards." srcset="
-/ai/minecraft/cards_hu1fd8a2c167e71c2fc6c2426a100de0a0_2669745_a65f36c05b2c32ce142be93409d4b1c9.webp 400w,
-/ai/minecraft/cards_hu1fd8a2c167e71c2fc6c2426a100de0a0_2669745_c1986d3817584ca7e6f0d952a2ea4896.webp 760w,
-/ai/minecraft/cards_hu1fd8a2c167e71c2fc6c2426a100de0a0_2669745_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://drsandor.net/ai/minecraft/cards_hu1fd8a2c167e71c2fc6c2426a100de0a0_2669745_a65f36c05b2c32ce142be93409d4b1c9.webp"
+/post/minecraft/cards_hu1fd8a2c167e71c2fc6c2426a100de0a0_2669745_a65f36c05b2c32ce142be93409d4b1c9.webp 400w,
+/post/minecraft/cards_hu1fd8a2c167e71c2fc6c2426a100de0a0_2669745_c1986d3817584ca7e6f0d952a2ea4896.webp 760w,
+/post/minecraft/cards_hu1fd8a2c167e71c2fc6c2426a100de0a0_2669745_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/post/minecraft/cards_hu1fd8a2c167e71c2fc6c2426a100de0a0_2669745_a65f36c05b2c32ce142be93409d4b1c9.webp"
 width="760"
 height="699"
 loading="lazy" data-zoomable />&lt;/div>
@@ -400,10 +401,10 @@ The LLM took the instructions to be unique and creative very seriously. The tige
 &lt;figure id="figure-the-way-the-tiger-looks-at-the-dragon-is-just-too-cute">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="The way the tiger looks at the dragon is just too cute." srcset="
-/ai/minecraft/dragon_hud5b48fe50b26838ec55d1e76ee5edc6a_3987406_9f7238159c44f608f54059ea2e158993.webp 400w,
-/ai/minecraft/dragon_hud5b48fe50b26838ec55d1e76ee5edc6a_3987406_d9f4d9f863f1995bf6eb543de12c0ef9.webp 760w,
-/ai/minecraft/dragon_hud5b48fe50b26838ec55d1e76ee5edc6a_3987406_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://drsandor.net/ai/minecraft/dragon_hud5b48fe50b26838ec55d1e76ee5edc6a_3987406_9f7238159c44f608f54059ea2e158993.webp"
+/post/minecraft/dragon_hud5b48fe50b26838ec55d1e76ee5edc6a_3987406_9f7238159c44f608f54059ea2e158993.webp 400w,
+/post/minecraft/dragon_hud5b48fe50b26838ec55d1e76ee5edc6a_3987406_d9f4d9f863f1995bf6eb543de12c0ef9.webp 760w,
+/post/minecraft/dragon_hud5b48fe50b26838ec55d1e76ee5edc6a_3987406_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/post/minecraft/dragon_hud5b48fe50b26838ec55d1e76ee5edc6a_3987406_9f7238159c44f608f54059ea2e158993.webp"
 width="760"
 height="429"
 loading="lazy" data-zoomable />&lt;/div>
@@ -413,10 +414,10 @@ The way the tiger looks at the dragon is just too cute.
 &lt;figure id="figure-an-interesting-hallucination-at-some-point-in-the-movie-the-tiger-lost-its-wings-however-the-final-frame-from-the-storyboard-clearly-shows-a-wing-the-pipeline-worked-around-this-problem-by-making-a-bird-fly-in-and-morph-into-the-wings">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="An interesting hallucination. At some point in the movie, the tiger lost its wings. However, the final frame from the storyboard clearly shows a wing! The pipeline worked around this problem by making a bird fly in and morph into the wings!" srcset="
-/ai/minecraft/wing_hu563eb47fe584df5923becb564682076a_96100_2315c9ea7c54af6d9ad2ba93722674c7.webp 400w,
-/ai/minecraft/wing_hu563eb47fe584df5923becb564682076a_96100_e8154f88623fbc98f26a2098252e197f.webp 760w,
-/ai/minecraft/wing_hu563eb47fe584df5923becb564682076a_96100_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/minecraft/wing_hu563eb47fe584df5923becb564682076a_96100_2315c9ea7c54af6d9ad2ba93722674c7.webp"
+/post/minecraft/wing_hu563eb47fe584df5923becb564682076a_96100_2315c9ea7c54af6d9ad2ba93722674c7.webp 400w,
+/post/minecraft/wing_hu563eb47fe584df5923becb564682076a_96100_e8154f88623fbc98f26a2098252e197f.webp 760w,
+/post/minecraft/wing_hu563eb47fe584df5923becb564682076a_96100_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/minecraft/wing_hu563eb47fe584df5923becb564682076a_96100_2315c9ea7c54af6d9ad2ba93722674c7.webp"
 width="760"
 height="292"
 loading="lazy" data-zoomable />&lt;/div>
@@ -429,7 +430,7 @@ An interesting hallucination. At some point in the movie, the tiger lost its win
 &lt;li>Wan FLF2V-14B is a shaky model. Next time, I would rather use I2V-14B with VACE because of the incompatibility with Self Forcing&lt;/li>
 &lt;li>I can&amp;rsquo;t wait for the Flux Kontext weights to be released!&lt;/li>
 &lt;li>Adobe Research: Great job with Self Forcing! I can&amp;rsquo;t wait for the next iteration of your work.&lt;/li>
-&lt;/ul></description></item><item><title>Short Animation with Wan Video, Flux Kontext, and DeepSeek</title><link>https://drsandor.net/project/ai-minecraft/</link><pubDate>Mon, 23 Jun 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai-minecraft/</guid><description>&lt;p>Test&lt;/p></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/ai/ados/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/ados/</guid><description>&lt;p>On 28 March 2025, I attended the amazing &lt;a href="https://www.lightricks.com/ados" target="_blank" rel="noopener">ADOS&lt;/a> event in Paris at &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>, a new space in Paris for bringing together AI arists and technologists. ADOS was co-organized by &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a> and &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, which was an ideal fit for Artifex Lab: Banadoco is the leading online community for AI art+technology and Lightricks&amp;rsquo;s LTX is the fastest generative AI video model (and it&amp;rsquo;s Open Source on top of that!).&lt;/p>
+&lt;/ul></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/post/ados/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/ados/</guid><description>&lt;p>On 28 March 2025, I attended the amazing &lt;a href="https://www.lightricks.com/ados" target="_blank" rel="noopener">ADOS&lt;/a> event in Paris at &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>, a new space in Paris for bringing together AI arists and technologists. ADOS was co-organized by &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a> and &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, which was an ideal fit for Artifex Lab: Banadoco is the leading online community for AI art+technology and Lightricks&amp;rsquo;s LTX is the fastest generative AI video model (and it&amp;rsquo;s Open Source on top of that!).&lt;/p>
 &lt;p>Coincidentally, our team has recently been investigating LTX deeply and also has been hanging out a lot on Banadoco&amp;rsquo;s inspiring Discord server. One thing led to another and I was invited to present a keynote at ADOS. We brought most of the team, as well as a bleeding edge demo. Unfortuntately, I missed out on the second day of the event, which featured a hackathon, where our PhD student Hovhannes received a prize (see his upcoming blogpost on our &lt;a href="https://ar-ai.org" target="_blank" rel="noopener">team webpage&lt;/a>).&lt;/p>
 &lt;p>
 &lt;figure id="figure-team-arai-at-ados">
@@ -483,7 +484,7 @@ Zeev Farbman, Co-Founder &amp;amp; CEO of Lightricks trying our demo
 &lt;li>The &lt;a href="https://www.lightricks.com/ados" target="_blank" rel="noopener">ADOS&lt;/a> organizational team: &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a>, &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, and &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>.&lt;/li>
 &lt;li>Special thanks to Lightricks for giving us early access to their distilled LTX model, which enabled impressive speedups.&lt;/li>
 &lt;li>All &lt;a href="https://ar-ai.org/people/" target="_blank" rel="noopener">ARAI team members&lt;/a> for bearing with my demands :-) Directly involved in the demo were Cyrille Leroux, Thomas Betton, Dávid Maruscsák, Francesco Dettori, and Hovhannes Margaryan.&lt;/li>
-&lt;/ul></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/project/ai3/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai3/</guid><description>&lt;p>Test&lt;/p></description></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/ai/good-bad-ugly/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/good-bad-ugly/</guid><description>&lt;p>I concluded my last AI blog post in October with &amp;ldquo;open source video
+&lt;/ul></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/project/ai3/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai3/</guid><description/></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/post/good-bad-ugly/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/good-bad-ugly/</guid><description>&lt;p>I concluded my last AI blog post in October with &amp;ldquo;open source video
 generation models&amp;hellip; will overtake closed sourced ones sooner than
 expected!&amp;rdquo;. &lt;em>Surprise: it has already happened!&lt;/em>&lt;/p>
 &lt;p>In this lengthy blogpost, I want to:&lt;/p>
@@ -559,10 +560,10 @@ human anatomy. The prompt &amp;ldquo;woman lying on grass&amp;rdquo; quickly bec
 &lt;figure id="figure-woman-lying-on-grass-according-to-stable-diffusion-3httpsstabilityainewsstable-diffusion-3">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="&amp;#39;&amp;#39;Woman lying on grass&amp;#39;, according to [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)" srcset="
-/ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_4736902eab9f0ecd57bf02bf8b4ee839.webp 400w,
-/ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_5acf54ae7b89121f468fb098ea842425.webp 760w,
-/ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://drsandor.net/ai/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_4736902eab9f0ecd57bf02bf8b4ee839.webp"
+/post/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_4736902eab9f0ecd57bf02bf8b4ee839.webp 400w,
+/post/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_5acf54ae7b89121f468fb098ea842425.webp 760w,
+/post/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/post/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_4736902eab9f0ecd57bf02bf8b4ee839.webp"
 width="760"
 height="430"
 loading="lazy" data-zoomable />&lt;/div>
@@ -599,10 +600,10 @@ more control of styles, materials, and humans in the output&lt;/p>
 &lt;figure id="figure-left-behind-the-scenes-of-a-video-i-posted-on-linkedin-in-022024httpswwwlinkedincompostsdr-christian-sandor-b7240890_i-did-some-dance-training-over-the-holidays-activity-7156976991240355840-28_outm_sourceshareutm_mediummember_desktop-using-a-lora-i-had-trained-on-my-appearance-and-a-controlnet-for-body-pose-right-my-coworker-huyenhttpsar-aiorgauthorhuyen-nguyen-generated--using-an-ipadapter-conditioned-with-4-photos-of-her">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Left: behind the scenes of a video I [posted on Linkedin in 02/2024](https://www.linkedin.com/posts/dr-christian-sandor-b7240890_i-did-some-dance-training-over-the-holidays-activity-7156976991240355840-28_O?utm_source=share&amp;amp;utm_medium=member_desktop), using a LORA I had trained on my appearance and a controlnet for body pose. Right: my coworker [Huyen](https://ar-ai.org/author/huyen-nguyen/), generated using an IPAdapter conditioned with 4 photos of her." srcset="
-/ai/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_c5752d928a33c7648640a778276f4fef.webp 400w,
-/ai/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_0ee009d1ae63cc7e8937dc82134f59fa.webp 760w,
-/ai/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://drsandor.net/ai/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_c5752d928a33c7648640a778276f4fef.webp"
+/post/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_c5752d928a33c7648640a778276f4fef.webp 400w,
+/post/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_0ee009d1ae63cc7e8937dc82134f59fa.webp 760w,
+/post/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/post/good-bad-ugly/2_hufba5692dd20cec5e2bc1458418e9c891_1409682_c5752d928a33c7648640a778276f4fef.webp"
 width="760"
 height="450"
 loading="lazy" data-zoomable />&lt;/div>
@@ -717,10 +718,10 @@ Cigarettes&lt;/a>. Initial results were very encouraging:&lt;/p>
 &lt;figure id="figure-input-screencap-of-coffee-and-cigarettes-below-sample-outputs-of-automated-pipeline">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Input screencap of Coffee and Cigarettes. Below: sample outputs of automated pipeline." srcset="
-/ai/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1d5f95cc72399937db7f510830518c1d.webp 400w,
-/ai/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_8e69f39dfdc54929eb96796b2e10d5e7.webp 760w,
-/ai/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://drsandor.net/ai/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1d5f95cc72399937db7f510830518c1d.webp"
+/post/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1d5f95cc72399937db7f510830518c1d.webp 400w,
+/post/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_8e69f39dfdc54929eb96796b2e10d5e7.webp 760w,
+/post/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/post/good-bad-ugly/cc_hu3ebab9955c4ef13d01d84409b44410e3_4088521_1d5f95cc72399937db7f510830518c1d.webp"
 width="760"
 height="402"
 loading="lazy" data-zoomable />&lt;/div>
@@ -806,7 +807,7 @@ available to not work very well).&lt;/p>
 &lt;li>
 &lt;p>&lt;a href="https://github.com/kijai" target="_blank" rel="noopener">Kijai&lt;/a>: advanced technical support&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/project/ai2/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai2/</guid><description/></item><item><title>Video Generation with Open Source Models</title><link>https://drsandor.net/ai/attenborough/</link><pubDate>Wed, 02 Oct 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/ai/attenborough/</guid><description>&lt;p>Social media has recently been flooded with impressive AI videos made with closed source tools like Sora, Runway, or Kling. In this experiment, I wanted to investigate how far you can get by using only open source AI models.&lt;/p>
+&lt;/ul></description></item><item><title>Video Generation with Open Source Models</title><link>https://drsandor.net/post/attenborough/</link><pubDate>Wed, 02 Oct 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/attenborough/</guid><description>&lt;p>Social media has recently been flooded with impressive AI videos made with closed source tools like Sora, Runway, or Kling. In this experiment, I wanted to investigate how far you can get by using only open source AI models.&lt;/p>
 &lt;p>What is the relevance of open source AI models? First, as Yann LeCun and others argue, there are implications on the highest level; AI is becoming an absolute key technology of our times; it can&amp;rsquo;t be good for humanity if this power is in the hand of small group of people leading companies in Silicon Valley and Beijing. Second, there is a technical dimension to it. As we saw with Linux vs. Windows: Open Source leads to technical superiority in the long run. Applied to AI, we could observe that it did not take long for open text-to-image models to overtake closed ones (e.g. Stable Diffusion vs. Midjourney).&lt;/p>
 &lt;p>In the following, I describe details of my experiment, which took 10 hours from concept to final cut. You can also skip directly to the end to see the final result.&lt;/p>
 &lt;h2 id="automatic-pipeline">Automatic Pipeline&lt;/h2>
@@ -814,10 +815,10 @@ available to not work very well).&lt;/p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="" srcset="
-/ai/attenborough/pipeline_hue860506cb1c1a8ced4983eb02da0f130_122916_d23f71f966a831b9bec743bbcfd330c0.webp 400w,
-/ai/attenborough/pipeline_hue860506cb1c1a8ced4983eb02da0f130_122916_7ce085067317ddb28b4edcd7649ccecc.webp 760w,
-/ai/attenborough/pipeline_hue860506cb1c1a8ced4983eb02da0f130_122916_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://drsandor.net/ai/attenborough/pipeline_hue860506cb1c1a8ced4983eb02da0f130_122916_d23f71f966a831b9bec743bbcfd330c0.webp"
+/post/attenborough/pipeline_hue860506cb1c1a8ced4983eb02da0f130_122916_d23f71f966a831b9bec743bbcfd330c0.webp 400w,
+/post/attenborough/pipeline_hue860506cb1c1a8ced4983eb02da0f130_122916_7ce085067317ddb28b4edcd7649ccecc.webp 760w,
+/post/attenborough/pipeline_hue860506cb1c1a8ced4983eb02da0f130_122916_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/attenborough/pipeline_hue860506cb1c1a8ced4983eb02da0f130_122916_d23f71f966a831b9bec743bbcfd330c0.webp"
 width="760"
 height="428"
 loading="lazy" data-zoomable />&lt;/div>
@@ -844,7 +845,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>Outpainting: RealVisXL V3.0 Inpainting&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>AI Experiments</title><link>https://drsandor.net/project/ai/</link><pubDate>Sun, 29 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai/</guid><description/></item><item><title>Demo at ACM SIGGRAPH Real-Time Live!</title><link>https://drsandor.net/project/rtl/</link><pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/rtl/</guid><description>&lt;p>A long-term dream of mine came true! At the end of July 2024, we showed a demonstration at ACM SIGGRAPH 2024 in Denver for their Real-Time Live! category.&lt;/p>
+&lt;/ul></description></item><item><title>Demo at ACM SIGGRAPH Real-Time Live!</title><link>https://drsandor.net/post/rtl/</link><pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/rtl/</guid><description>&lt;p>A long-term dream of mine came true! At the end of July 2024, we showed a demonstration at ACM SIGGRAPH 2024 in Denver for their Real-Time Live! category.&lt;/p>
 &lt;p>First of all, &lt;strong>what is ACM SIGRAPH Real-Time Live?&lt;/strong> It is a specific category at the premiere computer graphics conference &lt;a href="https://en.wikipedia.org/wiki/SIGGRAPH" target="_blank" rel="noopener">ACM SIGGRAPH&lt;/a>. While SIGGRAPH has been running every year since 1974, the Real-Time Live! category (RTL for short) has only been around for 15 years. It is very engaging, as presenters have 6 minutes to show a demonstration of real-time graphics to a large audience of computer graphics professionals (~5000 people). For me, this has always been the most fascinating event of SIGGRAPH, as it shows you the maximum of what’s possible in real-time graphics today. Also, compared to research papers, you can actually see the inventors demonstrating what they made&amp;mdash; this makes much clearer what really works and what doesn’t.&lt;/p>
 &lt;p>Here are some of my favorites from recent years:&lt;/p>
 &lt;ul>
@@ -979,65 +980,11 @@ height="428"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 The Team
-&lt;/figcaption>&lt;/figure>--></description></item><item><title>Invited Talk at MLBriefs</title><link>https://drsandor.net/project/ipol/</link><pubDate>Fri, 31 May 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ipol/</guid><description/></item><item><title>Best XR Demo at ACM SIGGRAPH Asia</title><link>https://drsandor.net/project/sigaxr/</link><pubDate>Fri, 15 Dec 2023 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/sigaxr/</guid><description/></item><item><title>Invited Talk in Beijing</title><link>https://drsandor.net/project/bit/</link><pubDate>Sun, 30 Oct 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/bit/</guid><description/></item><item><title>Invited Talk at Big Techday</title><link>https://drsandor.net/project/btd/</link><pubDate>Sat, 17 Sep 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/btd/</guid><description/></item><item><title>Keynote at MediaFutures</title><link>https://drsandor.net/project/bergen/</link><pubDate>Sat, 17 Sep 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/bergen/</guid><description/></item><item><title>Keynote at XR Salento</title><link>https://drsandor.net/project/salento/</link><pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/salento/</guid><description/></item><item><title>Talk at Collège de France</title><link>https://drsandor.net/project/cdf/</link><pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/cdf/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;/figcaption>&lt;/figure>--></description></item><item><title>Demo at ACM SIGGRAPH Real-Time Live!</title><link/><pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate><guid/><description/></item><item><title>Invited Talk at MLBriefs</title><link>https://drsandor.net/project/ipol/</link><pubDate>Fri, 31 May 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ipol/</guid><description/></item><item><title>Best XR Demo at ACM SIGGRAPH Asia</title><link>https://drsandor.net/project/sigaxr/</link><pubDate>Fri, 15 Dec 2023 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/sigaxr/</guid><description/></item><item><title>Invited Talk in Beijing</title><link>https://drsandor.net/project/bit/</link><pubDate>Sun, 30 Oct 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/bit/</guid><description/></item><item><title>Invited Talk at Big Techday</title><link>https://drsandor.net/project/btd/</link><pubDate>Sat, 17 Sep 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/btd/</guid><description/></item><item><title>Keynote at MediaFutures</title><link>https://drsandor.net/project/bergen/</link><pubDate>Sat, 17 Sep 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/bergen/</guid><description/></item><item><title>Keynote at XR Salento</title><link>https://drsandor.net/project/salento/</link><pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/salento/</guid><description/></item><item><title>Talk at Collège de France</title><link>https://drsandor.net/project/cdf/</link><pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/cdf/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
 &lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://drsandor.net/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://drsandor.net/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
-&lt;ol>
-&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
-&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
-&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
-&lt;/ol>
-&lt;p>&lt;a href="https://wowchemy.com" target="_blank" rel="noopener">
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/a>&lt;/p>
-&lt;h2 id="get-started">Get Started&lt;/h2>
-&lt;ul>
-&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
-&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
-&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
-&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
-&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor">&lt;a href="https://wowchemy.com/sponsor/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
-&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/sponsor/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
-&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
-&lt;/ul>
-&lt;h2 id="inspiration">Inspiration&lt;/h2>
-&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
-&lt;h2 id="features">Features&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
-&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
-&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
-&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
-&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
-&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
-&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
-&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
-&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
-&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
-&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
-&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
-&lt;/ul>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
-&lt;h2 id="license">License&lt;/h2>
-&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
-&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Slides</title><link>https://drsandor.net/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://drsandor.net/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Slides</title><link>https://drsandor.net/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://drsandor.net/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
