@@ -1,33 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christian Sandor</title><link>https://drsandor.net/</link><atom:link href="https://drsandor.net/index.xml" rel="self" type="application/rss+xml"/><description>Christian Sandor</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 14:00:00 +0000</lastBuildDate><image><url>https://drsandor.net/media/icon_hu287fcf417612116bcf0d00ac1ba165d7_82622_512x512_fill_lanczos_center_3.png</url><title>Christian Sandor</title><link>https://drsandor.net/</link></image><item><title>Academic Template</title><link>https://drsandor.net/home-unused/demo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/demo/</guid><description>&lt;h2 id="-welcome-to-the-academic-template">👋 Welcome to the Academic Template&lt;/h2>
-&lt;p>The Wowchemy &lt;strong>Academic Resumé Template&lt;/strong> for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.&lt;/p>
-&lt;p>&lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Check out the latest demo&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com" target="_blank" rel="noopener">&lt;strong>Wowchemy&lt;/strong>&lt;/a> makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.&lt;/p>
-&lt;ul>
-&lt;li>👉 &lt;a href="https://wowchemy.com/docs/install/" target="_blank" rel="noopener">&lt;strong>Get Started&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">View the &lt;strong>documentation&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
-&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
-&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
-&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/update/" target="_blank" rel="noopener">Update Guide&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
-&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
-&lt;h3 id="-click-here-to-unlock-rewards-with-sponsorshiphttpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to unlock rewards with sponsorship&lt;/a>&lt;/h3>
-&lt;h2 id="youre-looking-at-a-wowchemy-_widget_">You&amp;rsquo;re looking at a Wowchemy &lt;em>widget&lt;/em>&lt;/h2>
-&lt;div class="alert alert-note">
-&lt;div>
-&lt;p>This homepage section is an example of adding &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">elements&lt;/a> to the &lt;a href="https://wowchemy.com/docs/widget/" target="_blank" rel="noopener">&lt;em>Blank&lt;/em> widget&lt;/a>.&lt;/p>
-&lt;p>Backgrounds can be applied to any section. Here, the &lt;em>background&lt;/em> option is set give a &lt;em>color gradient&lt;/em>.&lt;/p>
-&lt;p>&lt;strong>To remove this section, delete &lt;code>content/home/demo.md&lt;/code>.&lt;/strong>&lt;/p>
-&lt;/div>
-&lt;/div>
-&lt;h2 id="get-inspired">Get inspired&lt;/h2>
-&lt;p>&lt;a href="https://github.com/wowchemy/starter-academic/tree/master/exampleSite" target="_blank" rel="noopener">Check out the Markdown files&lt;/a> which power the &lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Academic Demo&lt;/a>, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p></description></item><item><title>Skills</title><link>https://drsandor.net/home-unused/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/skills/</guid><description/></item><item><title>Experience</title><link>https://drsandor.net/home-unused/experience/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/experience/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>https://drsandor.net/home-unused/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>https://drsandor.net/home-unused/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/posts/</guid><description/></item><item><title>Talks</title><link>https://drsandor.net/home-unused/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/talks/</guid><description/></item><item><title>Featured Publications</title><link>https://drsandor.net/home-unused/featured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/featured/</guid><description/></item><item><title>Recent Publications</title><link>https://drsandor.net/home-unused/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/publications/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Quickly discover relevant content by &lt;a href="./publication/">filtering publications&lt;/a>.
-&lt;/div>
-&lt;/div></description></item><item><title>Popular Topics</title><link>https://drsandor.net/home-unused/tags/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/tags/</guid><description/></item><item><title>Contact</title><link>https://drsandor.net/home-unused/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/home-unused/contact/</guid><description/></item><item><title>Launching Dr. Sandor's ComfyUI Academy</title><link>https://drsandor.net/post/academy/</link><pubDate>Sun, 01 Feb 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/academy/</guid><description>&lt;p>Based on customer feedback, I have completely redesigned my offers for teaching Generative AI with ComfyUI.&lt;/p>
-&lt;p>Learn more at &lt;a href="https://comfyui.academy" target="_blank" rel="noopener">comfyui.academy&lt;/a>.&lt;/p></description></item><item><title>Teaching AI at Elementary School</title><link>https://drsandor.net/post/school/</link><pubDate>Sun, 01 Feb 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/school/</guid><description>&lt;p>I am super happy with my daughter Kate&amp;rsquo;s school! The &lt;a href="https://en.wikipedia.org/wiki/Montessori_education" target="_blank" rel="noopener">Montessori system&lt;/a> is very clever, as it places children of different ages into one class; then, children form working groups according to their skills. The children work with older children on subjects they are mastering well and with younger children if they need more time to consolidate their learning.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Christian Sandor</title><link>https://drsandor.net/</link><atom:link href="https://drsandor.net/index.xml" rel="self" type="application/rss+xml"/><description>Christian Sandor</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 14:00:00 +0000</lastBuildDate><image><url>https://drsandor.net/media/icon_hu287fcf417612116bcf0d00ac1ba165d7_82622_512x512_fill_lanczos_center_3.png</url><title>Christian Sandor</title><link>https://drsandor.net/</link></image><item><title>Launching Dr. Sandor's ComfyUI Academy</title><link>https://drsandor.net/post/academy/</link><pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/academy/</guid><description>&lt;p>Based on customer feedback, I have completely redesigned my offers for teaching Generative AI with ComfyUI.&lt;/p>
+&lt;p>Learn more at &lt;a href="https://comfyui.academy" target="_blank" rel="noopener">comfyui.academy&lt;/a>.&lt;/p></description></item><item><title>Teaching AI at Elementary School</title><link>https://drsandor.net/post/school/</link><pubDate>Thu, 01 Jan 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/school/</guid><description>&lt;p>I am super happy with my daughter Kate&amp;rsquo;s school! The &lt;a href="https://en.wikipedia.org/wiki/Montessori_education" target="_blank" rel="noopener">Montessori system&lt;/a> is very clever, as it places children of different ages into one class; then, children form working groups according to their skills. The children work with older children on subjects they are mastering well and with younger children if they need more time to consolidate their learning.&lt;/p>
 &lt;p>Last fall, the school asked parents to teach the children about their professions; what a program they got! For example, a neuro-surgeon who investigates the source of consciousness through fMRI scans, a heart surgeon, a high-frequency trader, an aviator, an architect, a politician, and&amp;hellip;. a computer science professor :-) These encounters helped give meaning to the children’s learning and opened their imaginations to the scientific and technological careers of tomorrow.&lt;/p>
 &lt;p>The requirements were:&lt;/p>
 &lt;ul>
@@ -430,7 +402,7 @@ An interesting hallucination. At some point in the movie, the tiger lost its win
 &lt;li>Wan FLF2V-14B is a shaky model. Next time, I would rather use I2V-14B with VACE because of the incompatibility with Self Forcing&lt;/li>
 &lt;li>I can&amp;rsquo;t wait for the Flux Kontext weights to be released!&lt;/li>
 &lt;li>Adobe Research: Great job with Self Forcing! I can&amp;rsquo;t wait for the next iteration of your work.&lt;/li>
-&lt;/ul></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/post/ados/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/ados/</guid><description>&lt;p>On 28 March 2025, I attended the amazing &lt;a href="https://www.lightricks.com/ados" target="_blank" rel="noopener">ADOS&lt;/a> event in Paris at &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>, a new space in Paris for bringing together AI arists and technologists. ADOS was co-organized by &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a> and &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, which was an ideal fit for Artifex Lab: Banadoco is the leading online community for AI art+technology and Lightricks&amp;rsquo;s LTX is the fastest generative AI video model (and it&amp;rsquo;s Open Source on top of that!).&lt;/p>
+&lt;/ul></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/post/ados/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/ados/</guid><description>&lt;p>On 28 March 2025, I attended the amazing ADOS event in Paris at &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>, a new space in Paris for bringing together AI arists and technologists. ADOS was co-organized by &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a> and &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, which was an ideal fit for Artifex Lab: Banadoco is the leading online community for AI art+technology and Lightricks&amp;rsquo;s LTX is the fastest generative AI video model (and it&amp;rsquo;s Open Source on top of that!).&lt;/p>
 &lt;p>Coincidentally, our team has recently been investigating LTX deeply and also has been hanging out a lot on Banadoco&amp;rsquo;s inspiring Discord server. One thing led to another and I was invited to present a keynote at ADOS. We brought most of the team, as well as a bleeding edge demo. Unfortuntately, I missed out on the second day of the event, which featured a hackathon, where our PhD student Hovhannes received a prize (see his upcoming blogpost on our &lt;a href="https://ar-ai.org" target="_blank" rel="noopener">team webpage&lt;/a>).&lt;/p>
 &lt;p>
 &lt;figure id="figure-team-arai-at-ados">
@@ -481,7 +453,7 @@ Zeev Farbman, Co-Founder &amp;amp; CEO of Lightricks trying our demo
 &lt;p>You can see my keynote on &lt;a href="https://www.youtube.com/live/gBeZSbaxMvc?si=qr5cMNz5WXu8Jt7d&amp;amp;t=7061" target="_blank" rel="noopener">youtube&lt;/a>, where I speak about my long past with AR and my more recent past with AI, and how everything converged into this demo :-)&lt;/p>
 &lt;p>To conclude, I would like to sincerely thank:&lt;/p>
 &lt;ul>
-&lt;li>The &lt;a href="https://www.lightricks.com/ados" target="_blank" rel="noopener">ADOS&lt;/a> organizational team: &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a>, &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, and &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>.&lt;/li>
+&lt;li>The ADOS organizational team: &lt;a href="https://banodoco.ai" target="_blank" rel="noopener">Banadoco&lt;/a>, &lt;a href="https://www.lightricks.com" target="_blank" rel="noopener">Lightricks&lt;/a>, and &lt;a href="https://www.artifex-lab.com" target="_blank" rel="noopener">Artifex Lab&lt;/a>.&lt;/li>
 &lt;li>Special thanks to Lightricks for giving us early access to their distilled LTX model, which enabled impressive speedups.&lt;/li>
 &lt;li>All &lt;a href="https://ar-ai.org/people/" target="_blank" rel="noopener">ARAI team members&lt;/a> for bearing with my demands :-) Directly involved in the demo were Cyrille Leroux, Thomas Betton, Dávid Maruscsák, Francesco Dettori, and Hovhannes Margaryan.&lt;/li>
 &lt;/ul></description></item><item><title>Keynote at ADOS Paris</title><link>https://drsandor.net/project/ai3/</link><pubDate>Thu, 10 Apr 2025 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ai3/</guid><description/></item><item><title>AI Video Generation - The Future is already here</title><link>https://drsandor.net/post/good-bad-ugly/</link><pubDate>Wed, 18 Dec 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/good-bad-ugly/</guid><description>&lt;p>I concluded my last AI blog post in October with &amp;ldquo;open source video
@@ -559,7 +531,7 @@ amount of lightly-dressed humans, leading to a total incomprehension of
 human anatomy. The prompt &amp;ldquo;woman lying on grass&amp;rdquo; quickly became a meme.&lt;/p>
 &lt;figure id="figure-woman-lying-on-grass-according-to-stable-diffusion-3httpsstabilityainewsstable-diffusion-3">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="&amp;#39;&amp;#39;Woman lying on grass&amp;#39;, according to [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)" srcset="
+&lt;div class="w-100" >&lt;img alt="&amp;#39;Woman lying on grass&amp;#39;, according to [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)" srcset="
 /post/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_4736902eab9f0ecd57bf02bf8b4ee839.webp 400w,
 /post/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_5acf54ae7b89121f468fb098ea842425.webp 760w,
 /post/good-bad-ugly/1_hu9c3d30bf53313f395dc9309d4b7f68f9_2061541_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
@@ -568,7 +540,7 @@ width="760"
 height="430"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption data-pre="Figure&amp;nbsp;" data-post=":&amp;nbsp;" class="numbered">
-&amp;lsquo;&amp;lsquo;Woman lying on grass&amp;rsquo;, according to &lt;a href="https://stability.ai/news/stable-diffusion-3" target="_blank" rel="noopener">Stable Diffusion 3&lt;/a>
+&amp;lsquo;Woman lying on grass&amp;rsquo;, according to &lt;a href="https://stability.ai/news/stable-diffusion-3" target="_blank" rel="noopener">Stable Diffusion 3&lt;/a>
 &lt;/figcaption>&lt;/figure>
 &lt;h4 id="ecosystem">Ecosystem&lt;/h4>
 &lt;p>In my last blog post, I showed how I built a pipeline out of several
@@ -857,7 +829,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;ul>
 &lt;li>Best real-time rendering engine for live events: &lt;a href="https://www.notch.one" target="_blank" rel="noopener">Notch&lt;/a> (Matt is their Co-Founder &amp;amp; CTO)&lt;/li>
 &lt;li>Fantastic audio-visual artist: &lt;a href="https://www.brettbolton.net" target="_blank" rel="noopener">Brett Bolton&lt;/a> (Designer of U2’s show in the Las Vegas sphere, VJ for the Grateful Dead, etc.)&lt;/li>
-&lt;li>The most stressable AR demo crew: &lt;a href="https://ar-ai.org/author/david-maruscak/" target="_blank" rel="noopener">David Maruscsak&lt;/a> and me 😊&lt;/li>
+&lt;li>The most stressable AR demo crew: &lt;a href="https://ar-ai.org/author/david-maruscsak/" target="_blank" rel="noopener">David Maruscsak&lt;/a> and me 😊&lt;/li>
 &lt;li>Best AR headset: &lt;a href="https://global.canon/en/technology/mr2019.html" target="_blank" rel="noopener">Canon’s X1&lt;/a> (Sorry Apple, but you need to work much harder! Even though X1 was released 4 years before your Vision Pro, it has a much better image quality, better co-axial alignment of screens and cameras, better tracking infrastructure, easier integration with custom software, much better weight, etc; let me not even get started about Meta’s headsets…)&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>What is the concept of our demo?&lt;/strong> You can watch a concise summary of our
@@ -980,128 +952,7 @@ height="428"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 The Team
-&lt;/figcaption>&lt;/figure>--></description></item><item><title>Demo at ACM SIGGRAPH Real-Time Live!</title><link/><pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate><guid/><description/></item><item><title>Invited Talk at MLBriefs</title><link>https://drsandor.net/project/ipol/</link><pubDate>Fri, 31 May 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ipol/</guid><description/></item><item><title>Best XR Demo at ACM SIGGRAPH Asia</title><link>https://drsandor.net/project/sigaxr/</link><pubDate>Fri, 15 Dec 2023 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/sigaxr/</guid><description/></item><item><title>Invited Talk in Beijing</title><link>https://drsandor.net/project/bit/</link><pubDate>Sun, 30 Oct 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/bit/</guid><description/></item><item><title>Invited Talk at Big Techday</title><link>https://drsandor.net/project/btd/</link><pubDate>Sat, 17 Sep 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/btd/</guid><description/></item><item><title>Keynote at MediaFutures</title><link>https://drsandor.net/project/bergen/</link><pubDate>Sat, 17 Sep 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/bergen/</guid><description/></item><item><title>Keynote at XR Salento</title><link>https://drsandor.net/project/salento/</link><pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/salento/</guid><description/></item><item><title>Talk at Collège de France</title><link>https://drsandor.net/project/cdf/</link><pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/cdf/</guid><description/></item><item><title>Slides</title><link>https://drsandor.net/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://drsandor.net/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
-&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h2 id="features">Features&lt;/h2>
-&lt;ul>
-&lt;li>Efficiently write slides in Markdown&lt;/li>
-&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
-&lt;li>Supports speaker notes&lt;/li>
-&lt;li>Mobile friendly slides&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="controls">Controls&lt;/h2>
-&lt;ul>
-&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
-&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
-&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
-&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
-&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
-&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
-&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
-&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
-&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
-&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
-&lt;p>Code block:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;h2 id="math">Math&lt;/h2>
-&lt;p>In-line math: $x + y = z$&lt;/p>
-&lt;p>Block math:&lt;/p>
-&lt;p>$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p>
-&lt;hr>
-&lt;h2 id="fragments">Fragments&lt;/h2>
-&lt;p>Make content appear incrementally&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">{{% fragment %}} One {{% /fragment %}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} **Two** {{% /fragment %}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} Three {{% /fragment %}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
-&lt;span class="fragment " >
-One
-&lt;/span>
-&lt;span class="fragment " >
-&lt;strong>Two&lt;/strong>
-&lt;/span>
-&lt;span class="fragment " >
-Three
-&lt;/span>
-&lt;hr>
-&lt;p>A fragment can accept two optional parameters:&lt;/p>
-&lt;ul>
-&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
-&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
-&lt;p>Add speaker notes to your presentation&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
-&lt;aside class="notes">
-&lt;ul>
-&lt;li>Only the speaker can read these notes&lt;/li>
-&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
-&lt;/ul>
-&lt;/aside>
-&lt;hr>
-&lt;h2 id="themes">Themes&lt;/h2>
-&lt;ul>
-&lt;li>black: Black background, white text, blue links (default)&lt;/li>
-&lt;li>white: White background, black text, blue links&lt;/li>
-&lt;li>league: Gray background, white text, blue links&lt;/li>
-&lt;li>beige: Beige background, dark text, brown links&lt;/li>
-&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;ul>
-&lt;li>night: Black background, thick white text, orange links&lt;/li>
-&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
-&lt;li>simple: White background, black text, blue links&lt;/li>
-&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;section data-noprocess data-shortcode-slide
-data-background-image="/media/boards.jpg"
->
-&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
-&lt;p>Customize the slide style and background&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
-&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
-&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
-&lt;h1 id="questions">Questions?&lt;/h1>
-&lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>An example conference paper</title><link>https://drsandor.net/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://drsandor.net/publication/example/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://drsandor.net/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/admin/config.yml</guid><description/></item><item><title>Chess</title><link>https://drsandor.net/chess/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/chess/</guid><description>&lt;p>One of my biggest passions is chess. In my teenager years, I had the honor to work with &lt;a href="https://en.wikipedia.org/wiki/Tibor_K%c3%a1rolyi_%28chess_player%29" target="_blank" rel="noopener">IM Tibor Karolyi&lt;/a>. As a result, I made rapid improvements.&lt;/p>
+&lt;/figcaption>&lt;/figure>--></description></item><item><title>Demo at ACM SIGGRAPH Real-Time Live!</title><link/><pubDate>Wed, 04 Sep 2024 14:00:00 +0000</pubDate><guid/><description/></item><item><title>Invited Talk at MLBriefs</title><link>https://drsandor.net/project/ipol/</link><pubDate>Fri, 31 May 2024 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/ipol/</guid><description/></item><item><title>Best XR Demo at ACM SIGGRAPH Asia</title><link>https://drsandor.net/project/sigaxr/</link><pubDate>Fri, 15 Dec 2023 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/sigaxr/</guid><description/></item><item><title>Invited Talk in Beijing</title><link>https://drsandor.net/project/bit/</link><pubDate>Mon, 30 Oct 2023 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/bit/</guid><description/></item><item><title>Invited Talk at Big Techday</title><link>https://drsandor.net/project/btd/</link><pubDate>Fri, 07 Jul 2023 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/btd/</guid><description/></item><item><title>Keynote at MediaFutures</title><link>https://drsandor.net/project/bergen/</link><pubDate>Wed, 16 Nov 2022 16:00:00 +0000</pubDate><guid>https://drsandor.net/project/bergen/</guid><description/></item><item><title>Keynote at XR Salento</title><link>https://drsandor.net/project/salento/</link><pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/salento/</guid><description/></item><item><title>Talk at Collège de France</title><link>https://drsandor.net/project/cdf/</link><pubDate>Fri, 22 Apr 2022 14:00:00 +0000</pubDate><guid>https://drsandor.net/project/cdf/</guid><description/></item><item><title>Chess</title><link>https://drsandor.net/chess/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://drsandor.net/chess/</guid><description>&lt;p>One of my biggest passions is chess. In my teenager years, I had the honor to work with &lt;a href="https://en.wikipedia.org/wiki/Tibor_K%c3%a1rolyi_%28chess_player%29" target="_blank" rel="noopener">IM Tibor Karolyi&lt;/a>. As a result, I made rapid improvements.&lt;/p>
 &lt;figure id="figure-player-profile-on-chessbasecomhttpsplayerschessbasecomenplayersandor_christian228735">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="[Player profile on chessbase.com](https://players.chessbase.com/en/player/Sandor_Christian/228735)" srcset="
