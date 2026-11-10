@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Christian Sandor</title><link>https://drsandor.net/post/</link><atom:link href="https://drsandor.net/post/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 14:00:00 +0000</lastBuildDate><image><url>https://drsandor.net/media/icon_hu287fcf417612116bcf0d00ac1ba165d7_82622_512x512_fill_lanczos_center_3.png</url><title>Blog</title><link>https://drsandor.net/post/</link></image><item><title>Launching Dr. Sandor's ComfyUI Academy</title><link>https://drsandor.net/post/academy/</link><pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/academy/</guid><description>&lt;p>Based on customer feedback, I have completely redesigned my offers for teaching Generative AI with ComfyUI.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Christian Sandor</title><link>https://drsandor.net/post/</link><atom:link href="https://drsandor.net/post/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Oct 2026 17:45:00 +0000</lastBuildDate><image><url>https://drsandor.net/media/icon_hu287fcf417612116bcf0d00ac1ba165d7_82622_512x512_fill_lanczos_center_3.png</url><title>Blog</title><link>https://drsandor.net/post/</link></image><item><title>Demo Award at IEEE ISMAR 2026</title><link>https://drsandor.net/post/ismar-2026/</link><pubDate>Fri, 09 Oct 2026 17:45:00 +0000</pubDate><guid>https://drsandor.net/post/ismar-2026/</guid><description>&lt;p>At the International Symposium on Mixed and Augmented Reality (IEEE ISMAR) in Bari, Italy, I received Best Demo Award (Honorable Mention) for: &lt;em>Flow Matching for Augmented Reality Applications&lt;/em>.&lt;/p>
+&lt;p>In this post, I first highlight the demo&amp;rsquo;s capabilities and limitations. Second, I explain how I made it; I trust that this will be useful for other practitioners!&lt;/p>
+&lt;h2 id="1-the-effect">1. The Effect&lt;/h2>
+&lt;p>A lot of researchers in the AR and VR communities are investigate rendering with &lt;a href="https://en.wikipedia.org/wiki/Gaussian_splatting" target="_blank" rel="noopener">Gaussian Splatting&lt;/a> and &lt;a href="https://en.wikipedia.org/wiki/Neural_radiance_field" target="_blank" rel="noopener">Neural Radiance Fields&lt;/a>. I believe that these techniques are fine for VR and pure computer graphics, but are completely wrong for AR. This was one of the main motivations for the demo: show that Diffusion Models are a feasible alternative that deserve careful consideration.&lt;/p>
+&lt;p>The quickest way to familiarize yourself with the high-level story is to watch this 1-minute explanatory video:
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/xapTqR18gXI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p>
+&lt;p>At the conference, I recorded the screen of my laptop while several attendants were playing with the demo (in order of appearance: &lt;a href="https://www.inf.uni-hamburg.de/en/inst/ab/hci/people/keli.html" target="_blank" rel="noopener">Ke Li&lt;/a>, &lt;a href="https://www.runi.ac.il/en/faculty/doronf" target="_blank" rel="noopener">Doron Friedman&lt;/a>, &lt;a href="https://www.hitlabnz.org/index.php/people/#student" target="_blank" rel="noopener">Xinyi Ye&lt;/a>, &lt;a href="https://ar-ai.org/author/huyen-nguyen/" target="_blank" rel="noopener">Huyen Nguyen&lt;/a>, and &lt;a href="https://ar-ai.org/author/yingfangzhong-sun/" target="_blank" rel="noopener">Yingfangzhong Sun&lt;/a>):
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/E1POWukxz48" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p>
+&lt;p>Unfortunately, the screen recording only ran at 7 FPS at 720p 🤦🤦. In order to get closer to the actual rendering performance, I performed post-processing with the &lt;a href="https://film-net.github.io" target="_blank" rel="noopener">FILM&lt;/a> frame interpolation model to get to 30 FPS, which led to melting artifacts that were not present in the actual demo.&lt;/p>
+&lt;p>Effects that can be observed include:&lt;/p>
+&lt;ul>
+&lt;li>Virtual light sources illuminate real elements&lt;/li>
+&lt;li>Virtual elements are registered in the real world&lt;/li>
+&lt;li>Several prompts are stacked successively&lt;/li>
+&lt;/ul>
+&lt;p>There are also defects visible that are inherent to my pipeline:&lt;/p>
+&lt;ul>
+&lt;li>Temporal inconsistencies&lt;/li>
+&lt;li>The more people are in the frame, the more edits fail&lt;/li>
+&lt;/ul>
+&lt;p>I had great fun playing together with one of my PhD advisors: &lt;a href="https://www.cs.columbia.edu/~feiner/" target="_blank" rel="noopener">Steven Feiner&lt;/a>. Moronically, I only captured the output, but not the input 🤦. I used &lt;a href="https://huggingface.co/Qwen/Qwen-Image-2.1" target="_blank" rel="noopener">Qwen-Image-2.1&lt;/a> to recreate the &amp;ldquo;before&amp;rdquo; frame.
+&lt;figure id="figure-steve-feiner-before-and-after-left-the-ai-reconstruction-of-the-original-frame-right-the-realtime-ai-filter-that-turns-him-into-the-hulk">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Steve Feiner, before and after: left, the AI reconstruction of the original frame; right, the realtime AI filter that turns him into the Hulk." srcset="
+/post/ismar-2026/steve2_hu59b3d4f76ba3e385de720c303e1d8878_894364_9838102d623dcd98c8a78132d83b9ee3.webp 400w,
+/post/ismar-2026/steve2_hu59b3d4f76ba3e385de720c303e1d8878_894364_0fcbdf69a177b3a3fb4729e8692fdef5.webp 760w,
+/post/ismar-2026/steve2_hu59b3d4f76ba3e385de720c303e1d8878_894364_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/post/ismar-2026/steve2_hu59b3d4f76ba3e385de720c303e1d8878_894364_9838102d623dcd98c8a78132d83b9ee3.webp"
+width="760"
+height="637"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Steve Feiner, before and after: left, the AI reconstruction of the original frame; right, the realtime AI filter that turns him into the Hulk.
+&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;h2 id="2-how-its-made">2. How it&amp;rsquo;s Made&lt;/h2>
+&lt;h3 id="three-key-ingredients">Three Key Ingredients&lt;/h3>
+&lt;p>This demo would have been hardly possible without &lt;strong>Chinese open-weight models&lt;/strong>, generously donated to the public by Alibaba Inc. and Z.ai. 谢谢! For reasons that become apparent further down, closed models, such as Anthropic or OpenAI, would not have been feasible to use within a reasonable financial or time budget&amp;mdash;they are simply too slow and too expensive for the approach I took!&lt;/p>
+&lt;p>One of the biggest perks of being a researcher in France is having access to our &lt;strong>&lt;a href="http://www.idris.fr/en/docs/dalia/dalia-presentation/" target="_blank" rel="noopener">DALIA GPU beast&lt;/a>&lt;/strong>, which has 64 NVIDIA GB200 GPUs. For lighter tasks, I used the older &lt;a href="http://www.idris.fr/en/docs/jean-zay/jean-zay/jean-zay-hardware#gpu-nvidia-h100-partition-gpu_p6" target="_blank" rel="noopener">Jean-Zay&lt;/a> with 1456 H100 GPUs. I estimate that I have used the equivalent of 1000 GB200 hours for developing this demo.&lt;/p>
+&lt;p>The final key ingredient is &lt;strong>&lt;a href="https://github.com/karpathy/autoresearch" target="_blank" rel="noopener">Andrej Karpathy&amp;rsquo;s autoresearch&lt;/a>&lt;/strong>, which &lt;strong>transposes the classical idea of automatic parameter search into code space&lt;/strong>. I used this mechanism on several levels of abstraction when developing the demo.&lt;/p>
+&lt;h3 id="development-stack">Development Stack&lt;/h3>
+&lt;p>The summary of my development stack from bottom to top is:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://vllm.ai" target="_blank" rel="noopener">vllm&lt;/a> on DALIA for high-performance serving of LLMs. I used autoresearch to optimize startup times (e.g. GLM went from 1 hour to 8 minutes), and inference speed.&lt;/li>
+&lt;li>&lt;a href="https://pi.dev" target="_blank" rel="noopener">Pi&lt;/a> as agent harness&lt;/li>
+&lt;li>&lt;a href="https://herdr.dev" target="_blank" rel="noopener">Herdr&lt;/a> to manage agent swarms&lt;/li>
+&lt;li>&lt;a href="https://getmoshi.app" target="_blank" rel="noopener">Moshi&lt;/a> as mobile phone client so that I could manage my agents from everywhere&lt;/li>
+&lt;/ul>
+&lt;p>Let&amp;rsquo;s spend a moment to look at the most fundamental part of this stack: the LLMs used and their performance. In terms of speed, I can use leading open weight models at about 10x speed compared to OpenAI models and 5x faster than Anthropic models:
+&lt;figure id="figure-decode-throughput-in-output-tokenss-higher-is-better-the-median-of-our-single-user-runs-on-gb200-nodes-versus-closed-weight-api-models-as-published-by-artificial-analysis-max-effort-variants-retrieved-2026-10-21">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Decode throughput in output tokens/s (higher is better): the median of our single-user runs on GB200 nodes, versus closed-weight API models as published by Artificial Analysis (max-effort variants, retrieved 2026-10-21)." srcset="
+/post/ismar-2026/llm_decode_speed_hubce16267ed88b7d5be3178561755ae25_74713_2bd4ec8e000a18a590f5b0d870f22c64.webp 400w,
+/post/ismar-2026/llm_decode_speed_hubce16267ed88b7d5be3178561755ae25_74713_df7bd818c8610f6bc6924cec7197bcd1.webp 760w,
+/post/ismar-2026/llm_decode_speed_hubce16267ed88b7d5be3178561755ae25_74713_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/post/ismar-2026/llm_decode_speed_hubce16267ed88b7d5be3178561755ae25_74713_2bd4ec8e000a18a590f5b0d870f22c64.webp"
+width="760"
+height="394"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Decode throughput in output tokens/s (higher is better): the median of our single-user runs on GB200 nodes, versus closed-weight API models as published by Artificial Analysis (max-effort variants, retrieved 2026-10-21).
+&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;p>The main autoresearch loop for the demo ran about 1 month continuously. A 10x slower model (such as Anthropic&amp;rsquo;s Fable) would have simply not been feasible. But hold on! Aren&amp;rsquo;t the closed source models smarter? Indeed, they are:
+&lt;figure id="figure-speed-versus-intelligence-decode-throughput-against-the-artificial-analysis-intelligence-index-v432-maxxhigh-variants-retrieved-2026-10-21">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Speed versus intelligence: decode throughput against the Artificial Analysis Intelligence Index v4.3.2 (max/xhigh variants, retrieved 2026-10-21)." srcset="
+/post/ismar-2026/llm_speed_vs_intelligence_hu7fbe4ca95fb1ca8aaa279c97a0e197db_87633_f8409a5f9b401b50a96b4da35fbef46a.webp 400w,
+/post/ismar-2026/llm_speed_vs_intelligence_hu7fbe4ca95fb1ca8aaa279c97a0e197db_87633_61c6a33935424e23c4fccf21c8f85a0b.webp 760w,
+/post/ismar-2026/llm_speed_vs_intelligence_hu7fbe4ca95fb1ca8aaa279c97a0e197db_87633_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://drsandor.net/post/ismar-2026/llm_speed_vs_intelligence_hu7fbe4ca95fb1ca8aaa279c97a0e197db_87633_f8409a5f9b401b50a96b4da35fbef46a.webp"
+width="760"
+height="407"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Speed versus intelligence: decode throughput against the Artificial Analysis Intelligence Index v4.3.2 (max/xhigh variants, retrieved 2026-10-21).
+&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;p>A problem that requires an intelligence index over 50 would lead to open weight models running in high-speed circles without ever solving them! To my great delight, I have not yet encountered such a problem.&lt;/p>
+&lt;h3 id="demo-development">Demo Development&lt;/h3>
+&lt;p>To attack the challenging performance issues, I ran autoresearch loops for individual components of the inference pipeline (DIT, VAE, Upscalers), as well as the overall system. Key instructions included:&lt;/p>
+&lt;ul>
+&lt;li>Increase FPS&lt;/li>
+&lt;li>Decrease Latency&lt;/li>
+&lt;li>Verify that visual quality is preserved using a test suite with a VLM&lt;/li>
+&lt;/ul>
+&lt;p>Some of the most impactful optimizations happened on the architectural level, such as cross-GPU pipeline parallelism:&lt;/p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt=""
+src="https://drsandor.net/post/ismar-2026/pipeline.svg"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;p>The agents discovered an astonishing amount of bugs in NVIDIA&amp;rsquo;s TensorRT for Blackwell. For example, see above diagram, it was not possible to use TensorRT (TRT) for VAE encoding/decoding at my demo&amp;rsquo;s resolution (it only worked for smaller ones); so we had to fall back to the much slower torch implementation. Luckily the DIT, RIFE, and ESRGAN components worked with it ;-)&lt;/p>
+&lt;h3 id="show-time">Show Time&lt;/h3>
+&lt;p>
+&lt;figure id="figure-setting-up-the-demo-in-bari">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Setting up the demo in Bari" srcset="
+/post/ismar-2026/setup_hu9229eb769a8f4258f2416acebc96ecc1_344460_bf278369230ba4c2d0a2a1dd9921057a.webp 400w,
+/post/ismar-2026/setup_hu9229eb769a8f4258f2416acebc96ecc1_344460_2b1823505c52e4c019a164c960337782.webp 760w,
+/post/ismar-2026/setup_hu9229eb769a8f4258f2416acebc96ecc1_344460_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/ismar-2026/setup_hu9229eb769a8f4258f2416acebc96ecc1_344460_bf278369230ba4c2d0a2a1dd9921057a.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Setting up the demo in Bari
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-final-tweaks-to-adapt-to-the-shaky-conference-network">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Final tweaks to adapt to the shaky conference network" srcset="
+/post/ismar-2026/setup-agent_hu2b19256c9613d2dc71c7dc58fd04c482_3835788_46b0ebe6c959bdb1c2ba841faba1668c.webp 400w,
+/post/ismar-2026/setup-agent_hu2b19256c9613d2dc71c7dc58fd04c482_3835788_f4cd7a3a8e2f472f509d7cffdb3fd312.webp 760w,
+/post/ismar-2026/setup-agent_hu2b19256c9613d2dc71c7dc58fd04c482_3835788_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://drsandor.net/post/ismar-2026/setup-agent_hu2b19256c9613d2dc71c7dc58fd04c482_3835788_46b0ebe6c959bdb1c2ba841faba1668c.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Final tweaks to adapt to the shaky conference network
+&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;h2 id="3-conclusions">3. Conclusions&lt;/h2>
+&lt;p>I am still trying to fully wrap my head around this development experience! It is certainly very different from anything I have ever done in my 31 years of programming!&lt;/p>
+&lt;p>A mini-postmortem:&lt;/p>
+&lt;ul>
+&lt;li>Autoresearch is unreasonably effective.&lt;/li>
+&lt;li>1000 GPU hours were wasteful. I should have planned better.&lt;/li>
+&lt;li>Agent swarms on multiple heterogeneous machines are not trivial. Especially for network optimizations, it was useful to have agents on DALIA communicate with agents on my laptop, which regularly ran into the aggressive intrusion detection system on DALIA. In the end, I figured everything out, even how to make persistent connections between moshi on my phone and DALIA. But, this took me too much time.&lt;/li>
+&lt;/ul>
+&lt;p>What comes next? This is a big question that I need to think deeply about. The only thing that is already clear to me is that the next experiment will use about 10x more compute :-)&lt;/p>
+&lt;p>You can find some more information about the demo in the &lt;a href="paper.pdf">Demo description as submitted to ISMAR (2-page pdf)&lt;/a>. Please note that the performance numbers are outdated (I worked a few more weeks on the demo after submission).&lt;/p></description></item><item><title>Launching Dr. Sandor's ComfyUI Academy</title><link>https://drsandor.net/post/academy/</link><pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/academy/</guid><description>&lt;p>Based on customer feedback, I have completely redesigned my offers for teaching Generative AI with ComfyUI.&lt;/p>
 &lt;p>Learn more at &lt;a href="https://comfyui.academy" target="_blank" rel="noopener">comfyui.academy&lt;/a>.&lt;/p></description></item><item><title>Teaching AI at Elementary School</title><link>https://drsandor.net/post/school/</link><pubDate>Thu, 01 Jan 2026 14:00:00 +0000</pubDate><guid>https://drsandor.net/post/school/</guid><description>&lt;p>I am super happy with my daughter Kate&amp;rsquo;s school! The &lt;a href="https://en.wikipedia.org/wiki/Montessori_education" target="_blank" rel="noopener">Montessori system&lt;/a> is very clever, as it places children of different ages into one class; then, children form working groups according to their skills. The children work with older children on subjects they are mastering well and with younger children if they need more time to consolidate their learning.&lt;/p>
 &lt;p>Last fall, the school asked parents to teach the children about their professions; what a program they got! For example, a neuro-surgeon who investigates the source of consciousness through fMRI scans, a heart surgeon, a high-frequency trader, an aviator, an architect, a politician, and&amp;hellip;. a computer science professor :-) These encounters helped give meaning to the children’s learning and opened their imaginations to the scientific and technological careers of tomorrow.&lt;/p>
 &lt;p>The requirements were:&lt;/p>

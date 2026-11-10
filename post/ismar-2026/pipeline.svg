@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="355" viewBox="0 0 800 355"
+     font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect x="0" y="0" width="800" height="355" fill="#ffffff"/>
+  <rect x="1" y="1" width="798" height="353" fill="none" stroke="#23252E" stroke-width="2"/>
+
+  <g fill="#23252E">
+    <!-- device labels -->
+    <g font-size="13.5" text-anchor="middle">
+      <text x="127.5" y="58">cuda:1 (GPU1)</text>
+      <text x="422.5" y="58">cuda:0 (GPU0)</text>
+      <text x="697.5" y="58">cuda:1 (GPU1)</text>
+    </g>
+
+    <!-- boxes -->
+    <g fill="#ffffff" stroke="#23252E" stroke-width="1.5">
+      <rect x="40" y="75" width="175" height="125" rx="3"/>
+      <rect x="290" y="75" width="265" height="125" rx="3"/>
+      <rect x="610" y="75" width="175" height="125" rx="3"/>
+    </g>
+
+    <!-- box contents -->
+    <g font-size="13.5" text-anchor="middle">
+      <text x="127.5" y="118">A: torch VAE enc</text>
+      <text x="127.5" y="140">of frame N+1</text>
+      <text x="127.5" y="162">(compiled)</text>
+
+      <text x="422.5" y="118">B: transformer N (2 steps)</text>
+      <text x="422.5" y="140">CUDA Graph</text>
+      <text x="422.5" y="162">torch VAE decode N</text>
+
+      <text x="697.5" y="118">RIFE 4x  (TRT)</text>
+      <text x="697.5" y="140">ESRGAN 2x (TRT)</text>
+      <text x="697.5" y="162">(encoder thread)</text>
+    </g>
+
+    <!-- arrows -->
+    <g stroke="#23252E" stroke-width="1.5" fill="none">
+      <line x1="219" y1="137" x2="281" y2="137"/>
+      <line x1="559" y1="137" x2="601" y2="137"/>
+    </g>
+    <g fill="#23252E">
+      <path d="M290 137 l-9 -4.5 v9 z"/>
+      <path d="M610 137 l-9 -4.5 v9 z"/>
+    </g>
+
+    <!-- critical path caption -->
+    <text x="422.5" y="232" font-size="13.5" text-anchor="middle">critical path</text>
+    <text x="697.5" y="232" font-size="13.5" text-anchor="middle">~44 ms, off-path</text>
+
+    <!-- overlap annotation: A feeds step B of the next frame -->
+    <g stroke="#23252E" stroke-width="1.5" fill="none">
+      <polyline points="127.5,200 127.5,282 325,282 325,212"/>
+    </g>
+    <path d="M325 200 l-4.5 10 h9 z" fill="#23252E"/>
+    <text x="226" y="270" font-size="13" text-anchor="middle" fill="#23252E">overlaps step B</text>
+
+    <!-- throughput -->
+    <text x="400" y="330" font-size="14" text-anchor="middle" fill="#23252E">126 ms base cycle &#8594; 31.7 out fps</text>
+  </g>
+</svg>
